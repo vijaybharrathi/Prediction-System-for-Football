@@ -1,0 +1,9510 @@
+(lp0
+(dp1
+S'headToHeadAwayWin'
+p2
+I0
+sS'headToHeadHomeWin'
+p3
+I9
+sS'headToHeadDraw'
+p4
+I1
+sS'matchday'
+p5
+I1
+sS'Result'
+p6
+I0
+sS'year'
+p7
+I2010
+sS'homeTeamName'
+p8
+VManchester United FC
+p9
+sS'awayTeamName'
+p10
+VQueens Park Rangers
+p11
+sa(dp12
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I1
+sg6
+I-1
+sg7
+I2010
+sg8
+VBursaspor
+p13
+sg10
+VValencia CF
+p14
+sa(dp15
+g2
+I1
+sg3
+I4
+sg4
+I1
+sg5
+I1
+sg6
+I1
+sg7
+I2010
+sg8
+VFC Barcelona
+p16
+sg10
+VPanathinaikos
+p17
+sa(dp18
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I1
+sg6
+I1
+sg7
+I2010
+sg8
+VFC Copenhagen
+p19
+sg10
+VRubin Kazan
+p20
+sa(dp21
+g2
+I1
+sg3
+I0
+sg4
+I1
+sg5
+I1
+sg6
+I0
+sg7
+I2010
+sg8
+VWerder Bremen
+p22
+sg10
+VTottenham Hotspur FC
+p23
+sa(dp24
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I1
+sg6
+I1
+sg7
+I2010
+sg8
+VOlympique Lyonnais
+p25
+sg10
+VFC Schalke 04
+p26
+sa(dp27
+g2
+I1
+sg3
+I0
+sg4
+I1
+sg5
+I1
+sg6
+I0
+sg7
+I2010
+sg8
+VFC Twente Enschede
+p28
+sg10
+VFC Internazionale Milano
+p29
+sa(dp30
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I1
+sg6
+I1
+sg7
+I2010
+sg8
+VBenfica Lissabon
+p31
+sg10
+VHapoel Tel Aviv
+p32
+sa(dp33
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I1
+sg6
+I1
+sg7
+I2010
+sg8
+VShakhtar Donetsk
+p34
+sg10
+VPartizan
+p35
+sa(dp36
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I1
+sg6
+I1
+sg7
+I2010
+sg8
+VCFR Cluj
+p37
+sg10
+VFC Basel
+p38
+sa(dp39
+g2
+I1
+sg3
+I3
+sg4
+I0
+sg5
+I1
+sg6
+I1
+sg7
+I2010
+sg8
+VFC Bayern München
+p40
+sg10
+VAS Roma
+p41
+sa(dp42
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I1
+sg6
+I1
+sg7
+I2010
+sg8
+VArsenal FC
+p43
+sg10
+VSporting Braga
+p44
+sa(dp45
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I1
+sg6
+I-1
+sg7
+I2010
+sg8
+VOlympique de Marseille
+p46
+sg10
+VSpartak Moskau
+p47
+sa(dp48
+g2
+I0
+sg3
+I6
+sg4
+I0
+sg5
+I1
+sg6
+I1
+sg7
+I2010
+sg8
+VReal Madrid CF
+p49
+sg10
+VAjax Amsterdam
+p50
+sa(dp51
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I1
+sg6
+I-1
+sg7
+I2010
+sg8
+V\u017dilina
+p52
+sg10
+VChelsea FC
+p53
+sa(dp54
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I1
+sg6
+I1
+sg7
+I2010
+sg8
+VAC Milan
+p55
+sg10
+VAJ Auxerre
+p56
+sa(dp57
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I2
+sg6
+I1
+sg7
+I2010
+sg8
+VSpartak Moskau
+p58
+sg10
+V\u017dilina
+p59
+sa(dp60
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I2
+sg6
+I-1
+sg7
+I2010
+sg8
+VSporting Braga
+p61
+sg10
+VShakhtar Donetsk
+p62
+sa(dp63
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I2
+sg6
+I-1
+sg7
+I2010
+sg8
+VPartizan
+p64
+sg10
+VArsenal FC
+p65
+sa(dp66
+g2
+I3
+sg3
+I1
+sg4
+I0
+sg5
+I2
+sg6
+I-1
+sg7
+I2010
+sg8
+VFC Basel
+p67
+sg10
+VFC Bayern München
+p68
+sa(dp69
+g2
+I1
+sg3
+I2
+sg4
+I1
+sg5
+I2
+sg6
+I1
+sg7
+I2010
+sg8
+VAS Roma
+p70
+sg10
+VCFR Cluj
+p71
+sa(dp72
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I2
+sg6
+I-1
+sg7
+I2010
+sg8
+VAJ Auxerre
+p73
+sg10
+VReal Madrid CF
+p74
+sa(dp75
+g2
+I3
+sg3
+I1
+sg4
+I4
+sg5
+I2
+sg6
+I0
+sg7
+I2010
+sg8
+VAjax Amsterdam
+p76
+sg10
+VAC Milan
+p77
+sa(dp78
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I2
+sg6
+I1
+sg7
+I2010
+sg8
+VChelsea FC
+p79
+sg10
+VOlympique de Marseille
+p80
+sa(dp81
+g2
+I2
+sg3
+I2
+sg4
+I2
+sg5
+I2
+sg6
+I1
+sg7
+I2010
+sg8
+VFC Internazionale Milano
+p82
+sg10
+VWerder Bremen
+p83
+sa(dp84
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I2
+sg6
+I1
+sg7
+I2010
+sg8
+VFC Schalke 04
+p85
+sg10
+VBenfica Lissabon
+p86
+sa(dp87
+g2
+I1
+sg3
+I0
+sg4
+I1
+sg5
+I2
+sg6
+I-1
+sg7
+I2010
+sg8
+VHapoel Tel Aviv
+p88
+sg10
+VOlympique Lyonnais
+p89
+sa(dp90
+g2
+I0
+sg3
+I1
+sg4
+I1
+sg5
+I2
+sg6
+I1
+sg7
+I2010
+sg8
+VQueens Park Rangers
+p91
+sg10
+VBursaspor
+p92
+sa(dp93
+g2
+I0
+sg3
+I1
+sg4
+I1
+sg5
+I2
+sg6
+I1
+sg7
+I2010
+sg8
+VTottenham Hotspur FC
+p94
+sg10
+VFC Twente Enschede
+p95
+sa(dp96
+g2
+I1
+sg3
+I0
+sg4
+I1
+sg5
+I2
+sg6
+I-1
+sg7
+I2010
+sg8
+VValencia CF
+p97
+sg10
+VManchester United FC
+p98
+sa(dp99
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I2
+sg6
+I-1
+sg7
+I2010
+sg8
+VPanathinaikos
+p100
+sg10
+VFC Copenhagen
+p101
+sa(dp102
+g2
+I1
+sg3
+I1
+sg4
+I2
+sg5
+I2
+sg6
+I0
+sg7
+I2010
+sg8
+VRubin Kazan
+p103
+sg10
+VFC Barcelona
+p104
+sa(dp105
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I3
+sg6
+I1
+sg7
+I2010
+sg8
+VAjax Amsterdam
+p106
+sg10
+VAJ Auxerre
+p107
+sa(dp108
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I3
+sg6
+I-1
+sg7
+I2010
+sg8
+VSpartak Moskau
+p109
+sg10
+VChelsea FC
+p110
+sa(dp111
+g2
+I2
+sg3
+I2
+sg4
+I2
+sg5
+I3
+sg6
+I1
+sg7
+I2010
+sg8
+VReal Madrid CF
+p112
+sg10
+VAC Milan
+p113
+sa(dp114
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I3
+sg6
+I-1
+sg7
+I2010
+sg8
+VAS Roma
+p115
+sg10
+VFC Basel
+p116
+sa(dp117
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I3
+sg6
+I1
+sg7
+I2010
+sg8
+VOlympique de Marseille
+p118
+sg10
+V\u017dilina
+p119
+sa(dp120
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I3
+sg6
+I1
+sg7
+I2010
+sg8
+VArsenal FC
+p121
+sg10
+VShakhtar Donetsk
+p122
+sa(dp123
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I3
+sg6
+I1
+sg7
+I2010
+sg8
+VSporting Braga
+p124
+sg10
+VPartizan
+p125
+sa(dp126
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I3
+sg6
+I1
+sg7
+I2010
+sg8
+VFC Bayern München
+p127
+sg10
+VCFR Cluj
+p128
+sa(dp129
+g2
+I0
+sg3
+I1
+sg4
+I1
+sg5
+I3
+sg6
+I1
+sg7
+I2010
+sg8
+VFC Schalke 04
+p130
+sg10
+VHapoel Tel Aviv
+p131
+sa(dp132
+g2
+I0
+sg3
+I1
+sg4
+I1
+sg5
+I3
+sg6
+I1
+sg7
+I2010
+sg8
+VFC Barcelona
+p133
+sg10
+VFC Copenhagen
+p134
+sa(dp135
+g2
+I1
+sg3
+I0
+sg4
+I1
+sg5
+I3
+sg6
+I0
+sg7
+I2010
+sg8
+VQueens Park Rangers
+p136
+sg10
+VValencia CF
+p137
+sa(dp138
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I3
+sg6
+I1
+sg7
+I2010
+sg8
+VOlympique Lyonnais
+p139
+sg10
+VBenfica Lissabon
+p140
+sa(dp141
+g2
+I0
+sg3
+I0
+sg4
+I2
+sg5
+I3
+sg6
+I0
+sg7
+I2010
+sg8
+VPanathinaikos
+p142
+sg10
+VRubin Kazan
+p143
+sa(dp144
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I3
+sg6
+I1
+sg7
+I2010
+sg8
+VManchester United FC
+p145
+sg10
+VBursaspor
+p146
+sa(dp147
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I3
+sg6
+I1
+sg7
+I2010
+sg8
+VFC Internazionale Milano
+p148
+sg10
+VTottenham Hotspur FC
+p149
+sa(dp150
+g2
+I0
+sg3
+I1
+sg4
+I1
+sg5
+I3
+sg6
+I0
+sg7
+I2010
+sg8
+VFC Twente Enschede
+p151
+sg10
+VWerder Bremen
+p152
+sa(dp153
+g2
+I0
+sg3
+I0
+sg4
+I2
+sg5
+I4
+sg6
+I0
+sg7
+I2010
+sg8
+VRubin Kazan
+p154
+sg10
+VPanathinaikos
+p155
+sa(dp156
+g2
+I1
+sg3
+I0
+sg4
+I1
+sg5
+I4
+sg6
+I0
+sg7
+I2010
+sg8
+VFC Copenhagen
+p157
+sg10
+VFC Barcelona
+p158
+sa(dp159
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I4
+sg6
+I1
+sg7
+I2010
+sg8
+VTottenham Hotspur FC
+p160
+sg10
+VFC Internazionale Milano
+p161
+sa(dp162
+g2
+I1
+sg3
+I0
+sg4
+I1
+sg5
+I4
+sg6
+I-1
+sg7
+I2010
+sg8
+VWerder Bremen
+p163
+sg10
+VFC Twente Enschede
+p164
+sa(dp165
+g2
+I1
+sg3
+I0
+sg4
+I1
+sg5
+I4
+sg6
+I0
+sg7
+I2010
+sg8
+VHapoel Tel Aviv
+p166
+sg10
+VFC Schalke 04
+p167
+sa(dp168
+g2
+I0
+sg3
+I1
+sg4
+I1
+sg5
+I4
+sg6
+I1
+sg7
+I2010
+sg8
+VValencia CF
+p169
+sg10
+VQueens Park Rangers
+p170
+sa(dp171
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I4
+sg6
+I-1
+sg7
+I2010
+sg8
+VBursaspor
+p172
+sg10
+VManchester United FC
+p173
+sa(dp174
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I4
+sg6
+I1
+sg7
+I2010
+sg8
+VBenfica Lissabon
+p175
+sg10
+VOlympique Lyonnais
+p176
+sa(dp177
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I4
+sg6
+I-1
+sg7
+I2010
+sg8
+V\u017dilina
+p178
+sg10
+VOlympique de Marseille
+p179
+sa(dp180
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I4
+sg6
+I-1
+sg7
+I2010
+sg8
+VFC Basel
+p181
+sg10
+VAS Roma
+p182
+sa(dp183
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I4
+sg6
+I1
+sg7
+I2010
+sg8
+VChelsea FC
+p184
+sg10
+VSpartak Moskau
+p185
+sa(dp186
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I4
+sg6
+I1
+sg7
+I2010
+sg8
+VShakhtar Donetsk
+p187
+sg10
+VArsenal FC
+p188
+sa(dp189
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I4
+sg6
+I-1
+sg7
+I2010
+sg8
+VPartizan
+p190
+sg10
+VSporting Braga
+p191
+sa(dp192
+g2
+I2
+sg3
+I2
+sg4
+I2
+sg5
+I4
+sg6
+I0
+sg7
+I2010
+sg8
+VAC Milan
+p193
+sg10
+VReal Madrid CF
+p194
+sa(dp195
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I4
+sg6
+I1
+sg7
+I2010
+sg8
+VAJ Auxerre
+p196
+sg10
+VAjax Amsterdam
+p197
+sa(dp198
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I4
+sg6
+I-1
+sg7
+I2010
+sg8
+VCFR Cluj
+p199
+sg10
+VFC Bayern München
+p200
+sa(dp201
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I5
+sg6
+I-1
+sg7
+I2010
+sg8
+VPartizan
+p202
+sg10
+VShakhtar Donetsk
+p203
+sa(dp204
+g2
+I3
+sg3
+I1
+sg4
+I0
+sg5
+I5
+sg6
+I1
+sg7
+I2010
+sg8
+VAS Roma
+p205
+sg10
+VFC Bayern München
+p206
+sa(dp207
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I5
+sg6
+I1
+sg7
+I2010
+sg8
+VChelsea FC
+p208
+sg10
+V\u017dilina
+p209
+sa(dp210
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I5
+sg6
+I-1
+sg7
+I2010
+sg8
+VSpartak Moskau
+p211
+sg10
+VOlympique de Marseille
+p212
+sa(dp213
+g2
+I6
+sg3
+I0
+sg4
+I0
+sg5
+I5
+sg6
+I-1
+sg7
+I2010
+sg8
+VAjax Amsterdam
+p214
+sg10
+VReal Madrid CF
+p215
+sa(dp216
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I5
+sg6
+I1
+sg7
+I2010
+sg8
+VSporting Braga
+p217
+sg10
+VArsenal FC
+p218
+sa(dp219
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I5
+sg6
+I-1
+sg7
+I2010
+sg8
+VAJ Auxerre
+p220
+sg10
+VAC Milan
+p221
+sa(dp222
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I5
+sg6
+I1
+sg7
+I2010
+sg8
+VFC Basel
+p223
+sg10
+VCFR Cluj
+p224
+sa(dp225
+g2
+I9
+sg3
+I0
+sg4
+I1
+sg5
+I5
+sg6
+I-1
+sg7
+I2010
+sg8
+VQueens Park Rangers
+p226
+sg10
+VManchester United FC
+p227
+sa(dp228
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I5
+sg6
+I1
+sg7
+I2010
+sg8
+VHapoel Tel Aviv
+p229
+sg10
+VBenfica Lissabon
+p230
+sa(dp231
+g2
+I0
+sg3
+I1
+sg4
+I1
+sg5
+I5
+sg6
+I1
+sg7
+I2010
+sg8
+VFC Internazionale Milano
+p232
+sg10
+VFC Twente Enschede
+p233
+sa(dp234
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I5
+sg6
+I1
+sg7
+I2010
+sg8
+VFC Schalke 04
+p235
+sg10
+VOlympique Lyonnais
+p236
+sa(dp237
+g2
+I4
+sg3
+I1
+sg4
+I1
+sg5
+I5
+sg6
+I-1
+sg7
+I2010
+sg8
+VPanathinaikos
+p238
+sg10
+VFC Barcelona
+p239
+sa(dp240
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I5
+sg6
+I1
+sg7
+I2010
+sg8
+VValencia CF
+p241
+sg10
+VBursaspor
+p242
+sa(dp243
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I5
+sg6
+I1
+sg7
+I2010
+sg8
+VRubin Kazan
+p244
+sg10
+VFC Copenhagen
+p245
+sa(dp246
+g2
+I0
+sg3
+I1
+sg4
+I1
+sg5
+I5
+sg6
+I1
+sg7
+I2010
+sg8
+VTottenham Hotspur FC
+p247
+sg10
+VWerder Bremen
+p248
+sa(dp249
+g2
+I0
+sg3
+I1
+sg4
+I1
+sg5
+I6
+sg6
+I0
+sg7
+I2010
+sg8
+VManchester United FC
+p250
+sg10
+VValencia CF
+p251
+sa(dp252
+g2
+I2
+sg3
+I2
+sg4
+I2
+sg5
+I6
+sg6
+I1
+sg7
+I2010
+sg8
+VWerder Bremen
+p253
+sg10
+VFC Internazionale Milano
+p254
+sa(dp255
+g2
+I1
+sg3
+I0
+sg4
+I1
+sg5
+I6
+sg6
+I0
+sg7
+I2010
+sg8
+VBursaspor
+p256
+sg10
+VQueens Park Rangers
+p257
+sa(dp258
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I6
+sg6
+I-1
+sg7
+I2010
+sg8
+VBenfica Lissabon
+p259
+sg10
+VFC Schalke 04
+p260
+sa(dp261
+g2
+I0
+sg3
+I1
+sg4
+I1
+sg5
+I6
+sg6
+I0
+sg7
+I2010
+sg8
+VOlympique Lyonnais
+p262
+sg10
+VHapoel Tel Aviv
+p263
+sa(dp264
+g2
+I1
+sg3
+I1
+sg4
+I2
+sg5
+I6
+sg6
+I1
+sg7
+I2010
+sg8
+VFC Barcelona
+p265
+sg10
+VRubin Kazan
+p266
+sa(dp267
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I6
+sg6
+I1
+sg7
+I2010
+sg8
+VFC Copenhagen
+p268
+sg10
+VPanathinaikos
+p269
+sa(dp270
+g2
+I1
+sg3
+I0
+sg4
+I1
+sg5
+I6
+sg6
+I0
+sg7
+I2010
+sg8
+VFC Twente Enschede
+p271
+sg10
+VTottenham Hotspur FC
+p272
+sa(dp273
+g2
+I2
+sg3
+I1
+sg4
+I1
+sg5
+I6
+sg6
+I0
+sg7
+I2010
+sg8
+VCFR Cluj
+p274
+sg10
+VAS Roma
+p275
+sa(dp276
+g2
+I1
+sg3
+I3
+sg4
+I4
+sg5
+I6
+sg6
+I-1
+sg7
+I2010
+sg8
+VAC Milan
+p277
+sg10
+VAjax Amsterdam
+p278
+sa(dp279
+g2
+I1
+sg3
+I3
+sg4
+I0
+sg5
+I6
+sg6
+I1
+sg7
+I2010
+sg8
+VFC Bayern München
+p280
+sg10
+VFC Basel
+p281
+sa(dp282
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I6
+sg6
+I-1
+sg7
+I2010
+sg8
+V\u017dilina
+p283
+sg10
+VSpartak Moskau
+p284
+sa(dp285
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I6
+sg6
+I1
+sg7
+I2010
+sg8
+VOlympique de Marseille
+p286
+sg10
+VChelsea FC
+p287
+sa(dp288
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I6
+sg6
+I1
+sg7
+I2010
+sg8
+VShakhtar Donetsk
+p289
+sg10
+VSporting Braga
+p290
+sa(dp291
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I6
+sg6
+I1
+sg7
+I2010
+sg8
+VArsenal FC
+p292
+sg10
+VPartizan
+p293
+sa(dp294
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I6
+sg6
+I1
+sg7
+I2010
+sg8
+VReal Madrid CF
+p295
+sg10
+VAJ Auxerre
+p296
+sa(dp297
+g2
+I1
+sg3
+I0
+sg4
+I1
+sg5
+I7
+sg6
+I-1
+sg7
+I2010
+sg8
+VAC Milan
+p298
+sg10
+VTottenham Hotspur FC
+p299
+sa(dp300
+g2
+I1
+sg3
+I1
+sg4
+I2
+sg5
+I7
+sg6
+I0
+sg7
+I2010
+sg8
+VValencia CF
+p301
+sg10
+VFC Schalke 04
+p302
+sa(dp303
+g2
+I3
+sg3
+I1
+sg4
+I1
+sg5
+I7
+sg6
+I1
+sg7
+I2010
+sg8
+VArsenal FC
+p304
+sg10
+VFC Barcelona
+p305
+sa(dp306
+g2
+I3
+sg3
+I1
+sg4
+I0
+sg5
+I7
+sg6
+I-1
+sg7
+I2010
+sg8
+VAS Roma
+p307
+sg10
+VShakhtar Donetsk
+p308
+sa(dp309
+g2
+I3
+sg3
+I3
+sg4
+I4
+sg5
+I7
+sg6
+I0
+sg7
+I2010
+sg8
+VOlympique Lyonnais
+p310
+sg10
+VReal Madrid CF
+p311
+sa(dp312
+g2
+I1
+sg3
+I0
+sg4
+I1
+sg5
+I7
+sg6
+I-1
+sg7
+I2010
+sg8
+VFC Copenhagen
+p313
+sg10
+VChelsea FC
+p314
+sa(dp315
+g2
+I2
+sg3
+I2
+sg4
+I1
+sg5
+I7
+sg6
+I-1
+sg7
+I2010
+sg8
+VFC Internazionale Milano
+p316
+sg10
+VFC Bayern München
+p317
+sa(dp318
+g2
+I1
+sg3
+I0
+sg4
+I1
+sg5
+I7
+sg6
+I0
+sg7
+I2010
+sg8
+VOlympique de Marseille
+p319
+sg10
+VManchester United FC
+p320
+sa(dp321
+g2
+I1
+sg3
+I3
+sg4
+I1
+sg5
+I7
+sg6
+I1
+sg7
+I2010
+sg8
+VFC Barcelona
+p322
+sg10
+VArsenal FC
+p323
+sa(dp324
+g2
+I1
+sg3
+I3
+sg4
+I0
+sg5
+I7
+sg6
+I1
+sg7
+I2010
+sg8
+VShakhtar Donetsk
+p325
+sg10
+VAS Roma
+p326
+sa(dp327
+g2
+I1
+sg3
+I1
+sg4
+I2
+sg5
+I7
+sg6
+I1
+sg7
+I2010
+sg8
+VFC Schalke 04
+p328
+sg10
+VValencia CF
+p329
+sa(dp330
+g2
+I0
+sg3
+I1
+sg4
+I1
+sg5
+I7
+sg6
+I0
+sg7
+I2010
+sg8
+VTottenham Hotspur FC
+p331
+sg10
+VAC Milan
+p332
+sa(dp333
+g2
+I0
+sg3
+I1
+sg4
+I1
+sg5
+I7
+sg6
+I1
+sg7
+I2010
+sg8
+VManchester United FC
+p334
+sg10
+VOlympique de Marseille
+p335
+sa(dp336
+g2
+I2
+sg3
+I2
+sg4
+I1
+sg5
+I7
+sg6
+I-1
+sg7
+I2010
+sg8
+VFC Bayern München
+p337
+sg10
+VFC Internazionale Milano
+p338
+sa(dp339
+g2
+I3
+sg3
+I3
+sg4
+I4
+sg5
+I7
+sg6
+I1
+sg7
+I2010
+sg8
+VReal Madrid CF
+p340
+sg10
+VOlympique Lyonnais
+p341
+sa(dp342
+g2
+I0
+sg3
+I1
+sg4
+I1
+sg5
+I7
+sg6
+I0
+sg7
+I2010
+sg8
+VChelsea FC
+p343
+sg10
+VFC Copenhagen
+p344
+sa(dp345
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I8
+sg6
+I1
+sg7
+I2010
+sg8
+VReal Madrid CF
+p346
+sg10
+VTottenham Hotspur FC
+p347
+sa(dp348
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I8
+sg6
+I-1
+sg7
+I2010
+sg8
+VFC Internazionale Milano
+p349
+sg10
+VFC Schalke 04
+p350
+sa(dp351
+g2
+I2
+sg3
+I4
+sg4
+I0
+sg5
+I8
+sg6
+I1
+sg7
+I2010
+sg8
+VFC Barcelona
+p352
+sg10
+VShakhtar Donetsk
+p353
+sa(dp354
+g2
+I4
+sg3
+I3
+sg4
+I3
+sg5
+I8
+sg6
+I-1
+sg7
+I2010
+sg8
+VChelsea FC
+p355
+sg10
+VManchester United FC
+p356
+sa(dp357
+g2
+I3
+sg3
+I4
+sg4
+I3
+sg5
+I8
+sg6
+I1
+sg7
+I2010
+sg8
+VManchester United FC
+p358
+sg10
+VChelsea FC
+p359
+sa(dp360
+g2
+I4
+sg3
+I2
+sg4
+I0
+sg5
+I8
+sg6
+I-1
+sg7
+I2010
+sg8
+VShakhtar Donetsk
+p361
+sg10
+VFC Barcelona
+p362
+sa(dp363
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I8
+sg6
+I-1
+sg7
+I2010
+sg8
+VTottenham Hotspur FC
+p364
+sg10
+VReal Madrid CF
+p365
+sa(dp366
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I8
+sg6
+I1
+sg7
+I2010
+sg8
+VFC Schalke 04
+p367
+sg10
+VFC Internazionale Milano
+p368
+sa(dp369
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I9
+sg6
+I-1
+sg7
+I2010
+sg8
+VFC Schalke 04
+p370
+sg10
+VManchester United FC
+p371
+sa(dp372
+g2
+I5
+sg3
+I3
+sg4
+I2
+sg5
+I9
+sg6
+I-1
+sg7
+I2010
+sg8
+VReal Madrid CF
+p373
+sg10
+VFC Barcelona
+p374
+sa(dp375
+g2
+I3
+sg3
+I5
+sg4
+I2
+sg5
+I9
+sg6
+I0
+sg7
+I2010
+sg8
+VFC Barcelona
+p376
+sg10
+VReal Madrid CF
+p377
+sa(dp378
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I9
+sg6
+I1
+sg7
+I2010
+sg8
+VManchester United FC
+p379
+sg10
+VFC Schalke 04
+p380
+sa(dp381
+g2
+I1
+sg3
+I2
+sg4
+I1
+sg5
+I10
+sg6
+I1
+sg7
+I2010
+sg8
+VFC Barcelona
+p382
+sg10
+VManchester United FC
+p383
+sa(dp384
+g2
+I1
+sg3
+I5
+sg4
+I4
+sg5
+I1
+sg6
+I0
+sg7
+I2011
+sg8
+VFC Barcelona
+p385
+sg10
+VAC Milan
+p386
+sa(dp387
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I1
+sg6
+I1
+sg7
+I2011
+sg8
+VChelsea FC
+p388
+sg10
+VBayer Leverkusen
+p389
+sa(dp390
+g2
+I1
+sg3
+I0
+sg4
+I1
+sg5
+I1
+sg6
+I0
+sg7
+I2011
+sg8
+VGenk
+p391
+sg10
+VValencia CF
+p392
+sa(dp393
+g2
+I0
+sg3
+I1
+sg4
+I1
+sg5
+I1
+sg6
+I0
+sg7
+I2011
+sg8
+VViktoria Plze?
+p394
+sg10
+VFK BATE Baryssau
+p395
+sa(dp396
+g2
+I3
+sg3
+I3
+sg4
+I1
+sg5
+I1
+sg6
+I0
+sg7
+I2011
+sg8
+VBorussia Dortmund
+p397
+sg10
+VArsenal FC
+p398
+sa(dp399
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I1
+sg6
+I-1
+sg7
+I2011
+sg8
+VOlympiacos F.C.
+p400
+sg10
+VOlympique de Marseille
+p401
+sa(dp402
+g2
+I0
+sg3
+I1
+sg4
+I1
+sg5
+I1
+sg6
+I1
+sg7
+I2011
+sg8
+VAPOEL Nicosia
+p403
+sg10
+VFC Zenit St. Petersburg
+p404
+sa(dp405
+g2
+I0
+sg3
+I2
+sg4
+I2
+sg5
+I1
+sg6
+I1
+sg7
+I2011
+sg8
+VFC Porto
+p406
+sg10
+VShakhtar Donetsk
+p407
+sa(dp408
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I1
+sg6
+I-1
+sg7
+I2011
+sg8
+VVillarreal CF
+p409
+sg10
+VFC Bayern München
+p410
+sa(dp411
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I1
+sg6
+I1
+sg7
+I2011
+sg8
+VFC Basel
+p412
+sg10
+VOtelul Galati
+p413
+sa(dp414
+g2
+I0
+sg3
+I1
+sg4
+I2
+sg5
+I1
+sg6
+I0
+sg7
+I2011
+sg8
+VAjax Amsterdam
+p415
+sg10
+VOlympique Lyonnais
+p416
+sa(dp417
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I1
+sg6
+I-1
+sg7
+I2011
+sg8
+VGNK Dinamo Zagreb
+p418
+sg10
+VReal Madrid CF
+p419
+sa(dp420
+g2
+I0
+sg3
+I1
+sg4
+I1
+sg5
+I1
+sg6
+I0
+sg7
+I2011
+sg8
+VOSC Lille
+p421
+sg10
+VCSKA Moscow
+p422
+sa(dp423
+g2
+I1
+sg3
+I0
+sg4
+I1
+sg5
+I1
+sg6
+I-1
+sg7
+I2011
+sg8
+VFC Internazionale Milano
+p424
+sg10
+VTrabzonspor Kulübü
+p425
+sa(dp426
+g2
+I3
+sg3
+I1
+sg4
+I2
+sg5
+I1
+sg6
+I0
+sg7
+I2011
+sg8
+VBenfica Lissabon
+p427
+sg10
+VManchester United FC
+p428
+sa(dp429
+g2
+I1
+sg3
+I0
+sg4
+I1
+sg5
+I1
+sg6
+I0
+sg7
+I2011
+sg8
+VManchester City FC
+p430
+sg10
+VSSC Napoli
+p431
+sa(dp432
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I2
+sg6
+I1
+sg7
+I2011
+sg8
+VSSC Napoli
+p433
+sg10
+VVillarreal CF
+p434
+sa(dp435
+g2
+I0
+sg3
+I0
+sg4
+I2
+sg5
+I2
+sg6
+I0
+sg7
+I2011
+sg8
+VTrabzonspor Kulübü
+p436
+sg10
+VOSC Lille
+p437
+sa(dp438
+g2
+I1
+sg3
+I1
+sg4
+I2
+sg5
+I2
+sg6
+I0
+sg7
+I2011
+sg8
+VManchester United FC
+p439
+sg10
+VFC Basel
+p440
+sa(dp441
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I2
+sg6
+I-1
+sg7
+I2011
+sg8
+VOtelul Galati
+p442
+sg10
+VBenfica Lissabon
+p443
+sa(dp444
+g2
+I5
+sg3
+I1
+sg4
+I0
+sg5
+I2
+sg6
+I-1
+sg7
+I2011
+sg8
+VCSKA Moscow
+p445
+sg10
+VFC Internazionale Milano
+p446
+sa(dp447
+g2
+I3
+sg3
+I3
+sg4
+I0
+sg5
+I2
+sg6
+I1
+sg7
+I2011
+sg8
+VFC Bayern München
+p448
+sg10
+VManchester City FC
+p449
+sa(dp450
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I2
+sg6
+I1
+sg7
+I2011
+sg8
+VOlympique Lyonnais
+p451
+sg10
+VGNK Dinamo Zagreb
+p452
+sa(dp453
+g2
+I0
+sg3
+I6
+sg4
+I0
+sg5
+I2
+sg6
+I1
+sg7
+I2011
+sg8
+VReal Madrid CF
+p454
+sg10
+VAjax Amsterdam
+p455
+sa(dp456
+g2
+I0
+sg3
+I1
+sg4
+I1
+sg5
+I2
+sg6
+I1
+sg7
+I2011
+sg8
+VAC Milan
+p457
+sg10
+VViktoria Plze?
+p458
+sa(dp459
+g2
+I4
+sg3
+I0
+sg4
+I0
+sg5
+I2
+sg6
+I-1
+sg7
+I2011
+sg8
+VFK BATE Baryssau
+p460
+sg10
+VFC Barcelona
+p461
+sa(dp462
+g2
+I0
+sg3
+I2
+sg4
+I2
+sg5
+I2
+sg6
+I1
+sg7
+I2011
+sg8
+VFC Zenit St. Petersburg
+p463
+sg10
+VFC Porto
+p464
+sa(dp465
+g2
+I2
+sg3
+I2
+sg4
+I0
+sg5
+I2
+sg6
+I1
+sg7
+I2011
+sg8
+VOlympique de Marseille
+p466
+sg10
+VBorussia Dortmund
+p467
+sa(dp468
+g2
+I4
+sg3
+I3
+sg4
+I0
+sg5
+I2
+sg6
+I1
+sg7
+I2011
+sg8
+VArsenal FC
+p469
+sg10
+VOlympiacos F.C.
+p470
+sa(dp471
+g2
+I3
+sg3
+I0
+sg4
+I3
+sg5
+I2
+sg6
+I0
+sg7
+I2011
+sg8
+VValencia CF
+p472
+sg10
+VChelsea FC
+p473
+sa(dp474
+g2
+I0
+sg3
+I1
+sg4
+I1
+sg5
+I2
+sg6
+I1
+sg7
+I2011
+sg8
+VBayer Leverkusen
+p475
+sg10
+VGenk
+p476
+sa(dp477
+g2
+I0
+sg3
+I1
+sg4
+I1
+sg5
+I2
+sg6
+I0
+sg7
+I2011
+sg8
+VShakhtar Donetsk
+p478
+sg10
+VAPOEL Nicosia
+p479
+sa(dp480
+g2
+I0
+sg3
+I1
+sg4
+I1
+sg5
+I3
+sg6
+I1
+sg7
+I2011
+sg8
+VCSKA Moscow
+p481
+sg10
+VTrabzonspor Kulübü
+p482
+sa(dp483
+g2
+I1
+sg3
+I0
+sg4
+I1
+sg5
+I3
+sg6
+I-1
+sg7
+I2011
+sg8
+VFC Basel
+p484
+sg10
+VBenfica Lissabon
+p485
+sa(dp486
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I3
+sg6
+I-1
+sg7
+I2011
+sg8
+VOtelul Galati
+p487
+sg10
+VManchester United FC
+p488
+sa(dp489
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I3
+sg6
+I-1
+sg7
+I2011
+sg8
+VOSC Lille
+p490
+sg10
+VFC Internazionale Milano
+p491
+sa(dp492
+g2
+I3
+sg3
+I3
+sg4
+I4
+sg5
+I3
+sg6
+I1
+sg7
+I2011
+sg8
+VReal Madrid CF
+p493
+sg10
+VOlympique Lyonnais
+p494
+sa(dp495
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I3
+sg6
+I-1
+sg7
+I2011
+sg8
+VGNK Dinamo Zagreb
+p496
+sg10
+VAjax Amsterdam
+p497
+sa(dp498
+g2
+I1
+sg3
+I0
+sg4
+I1
+sg5
+I3
+sg6
+I0
+sg7
+I2011
+sg8
+VSSC Napoli
+p499
+sg10
+VFC Bayern München
+p500
+sa(dp501
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I3
+sg6
+I1
+sg7
+I2011
+sg8
+VManchester City FC
+p502
+sg10
+VVillarreal CF
+p503
+sa(dp504
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I3
+sg6
+I1
+sg7
+I2011
+sg8
+VOlympiacos F.C.
+p505
+sg10
+VBorussia Dortmund
+p506
+sa(dp507
+g2
+I1
+sg3
+I2
+sg4
+I1
+sg5
+I3
+sg6
+I0
+sg7
+I2011
+sg8
+VFC Porto
+p508
+sg10
+VAPOEL Nicosia
+p509
+sa(dp510
+g2
+I1
+sg3
+I0
+sg4
+I1
+sg5
+I3
+sg6
+I0
+sg7
+I2011
+sg8
+VShakhtar Donetsk
+p511
+sg10
+VFC Zenit St. Petersburg
+p512
+sa(dp513
+g2
+I3
+sg3
+I0
+sg4
+I1
+sg5
+I3
+sg6
+I-1
+sg7
+I2011
+sg8
+VOlympique de Marseille
+p514
+sg10
+VArsenal FC
+p515
+sa(dp516
+g2
+I0
+sg3
+I1
+sg4
+I1
+sg5
+I3
+sg6
+I1
+sg7
+I2011
+sg8
+VChelsea FC
+p517
+sg10
+VGenk
+p518
+sa(dp519
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I3
+sg6
+I1
+sg7
+I2011
+sg8
+VBayer Leverkusen
+p520
+sg10
+VValencia CF
+p521
+sa(dp522
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I3
+sg6
+I1
+sg7
+I2011
+sg8
+VFC Barcelona
+p523
+sg10
+VViktoria Plze?
+p524
+sa(dp525
+g2
+I0
+sg3
+I1
+sg4
+I1
+sg5
+I3
+sg6
+I1
+sg7
+I2011
+sg8
+VAC Milan
+p526
+sg10
+VFK BATE Baryssau
+p527
+sa(dp528
+g2
+I1
+sg3
+I0
+sg4
+I1
+sg5
+I4
+sg6
+I0
+sg7
+I2011
+sg8
+VGenk
+p529
+sg10
+VChelsea FC
+p530
+sa(dp531
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I4
+sg6
+I1
+sg7
+I2011
+sg8
+VBorussia Dortmund
+p532
+sg10
+VOlympiacos F.C.
+p533
+sa(dp534
+g2
+I0
+sg3
+I1
+sg4
+I1
+sg5
+I4
+sg6
+I1
+sg7
+I2011
+sg8
+VFC Zenit St. Petersburg
+p535
+sg10
+VShakhtar Donetsk
+p536
+sa(dp537
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I4
+sg6
+I-1
+sg7
+I2011
+sg8
+VViktoria Plze?
+p538
+sg10
+VFC Barcelona
+p539
+sa(dp540
+g2
+I1
+sg3
+I0
+sg4
+I1
+sg5
+I4
+sg6
+I0
+sg7
+I2011
+sg8
+VFK BATE Baryssau
+p541
+sg10
+VAC Milan
+p542
+sa(dp543
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I4
+sg6
+I1
+sg7
+I2011
+sg8
+VValencia CF
+p544
+sg10
+VBayer Leverkusen
+p545
+sa(dp546
+g2
+I2
+sg3
+I1
+sg4
+I1
+sg5
+I4
+sg6
+I1
+sg7
+I2011
+sg8
+VAPOEL Nicosia
+p547
+sg10
+VFC Porto
+p548
+sa(dp549
+g2
+I0
+sg3
+I3
+sg4
+I1
+sg5
+I4
+sg6
+I0
+sg7
+I2011
+sg8
+VArsenal FC
+p550
+sg10
+VOlympique de Marseille
+p551
+sa(dp552
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I4
+sg6
+I-1
+sg7
+I2011
+sg8
+VVillarreal CF
+p553
+sg10
+VManchester City FC
+p554
+sa(dp555
+g2
+I0
+sg3
+I1
+sg4
+I1
+sg5
+I4
+sg6
+I0
+sg7
+I2011
+sg8
+VBenfica Lissabon
+p556
+sg10
+VFC Basel
+p557
+sa(dp558
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I4
+sg6
+I1
+sg7
+I2011
+sg8
+VAjax Amsterdam
+p559
+sg10
+VGNK Dinamo Zagreb
+p560
+sa(dp561
+g2
+I3
+sg3
+I3
+sg4
+I4
+sg5
+I4
+sg6
+I-1
+sg7
+I2011
+sg8
+VOlympique Lyonnais
+p562
+sg10
+VReal Madrid CF
+p563
+sa(dp564
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I4
+sg6
+I1
+sg7
+I2011
+sg8
+VManchester United FC
+p565
+sg10
+VOtelul Galati
+p566
+sa(dp567
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I4
+sg6
+I1
+sg7
+I2011
+sg8
+VFC Internazionale Milano
+p568
+sg10
+VOSC Lille
+p569
+sa(dp570
+g2
+I0
+sg3
+I1
+sg4
+I1
+sg5
+I4
+sg6
+I1
+sg7
+I2011
+sg8
+VFC Bayern München
+p571
+sg10
+VSSC Napoli
+p572
+sa(dp573
+g2
+I1
+sg3
+I0
+sg4
+I1
+sg5
+I4
+sg6
+I0
+sg7
+I2011
+sg8
+VTrabzonspor Kulübü
+p574
+sg10
+VCSKA Moscow
+p575
+sa(dp576
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I5
+sg6
+I1
+sg7
+I2011
+sg8
+VReal Madrid CF
+p577
+sg10
+VGNK Dinamo Zagreb
+p578
+sa(dp579
+g2
+I1
+sg3
+I0
+sg4
+I2
+sg5
+I5
+sg6
+I0
+sg7
+I2011
+sg8
+VOlympique Lyonnais
+p580
+sg10
+VAjax Amsterdam
+p581
+sa(dp582
+g2
+I0
+sg3
+I1
+sg4
+I1
+sg5
+I5
+sg6
+I1
+sg7
+I2011
+sg8
+VSSC Napoli
+p583
+sg10
+VManchester City FC
+p584
+sa(dp585
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I5
+sg6
+I-1
+sg7
+I2011
+sg8
+VOtelul Galati
+p586
+sg10
+VFC Basel
+p587
+sa(dp588
+g2
+I1
+sg3
+I3
+sg4
+I2
+sg5
+I5
+sg6
+I0
+sg7
+I2011
+sg8
+VManchester United FC
+p589
+sg10
+VBenfica Lissabon
+p590
+sa(dp591
+g2
+I1
+sg3
+I0
+sg4
+I1
+sg5
+I5
+sg6
+I-1
+sg7
+I2011
+sg8
+VCSKA Moscow
+p592
+sg10
+VOSC Lille
+p593
+sa(dp594
+g2
+I0
+sg3
+I1
+sg4
+I1
+sg5
+I5
+sg6
+I0
+sg7
+I2011
+sg8
+VTrabzonspor Kulübü
+p595
+sg10
+VFC Internazionale Milano
+p596
+sa(dp597
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I5
+sg6
+I1
+sg7
+I2011
+sg8
+VFC Bayern München
+p598
+sg10
+VVillarreal CF
+p599
+sa(dp600
+g2
+I2
+sg3
+I0
+sg4
+I2
+sg5
+I5
+sg6
+I-1
+sg7
+I2011
+sg8
+VShakhtar Donetsk
+p601
+sg10
+VFC Porto
+p602
+sa(dp603
+g2
+I3
+sg3
+I3
+sg4
+I1
+sg5
+I5
+sg6
+I1
+sg7
+I2011
+sg8
+VArsenal FC
+p604
+sg10
+VBorussia Dortmund
+p605
+sa(dp606
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I5
+sg6
+I-1
+sg7
+I2011
+sg8
+VOlympique de Marseille
+p607
+sg10
+VOlympiacos F.C.
+p608
+sa(dp609
+g2
+I1
+sg3
+I0
+sg4
+I1
+sg5
+I5
+sg6
+I-1
+sg7
+I2011
+sg8
+VFK BATE Baryssau
+p610
+sg10
+VViktoria Plze?
+p611
+sa(dp612
+g2
+I1
+sg3
+I0
+sg4
+I1
+sg5
+I5
+sg6
+I0
+sg7
+I2011
+sg8
+VFC Zenit St. Petersburg
+p613
+sg10
+VAPOEL Nicosia
+p614
+sa(dp615
+g2
+I5
+sg3
+I1
+sg4
+I4
+sg5
+I5
+sg6
+I-1
+sg7
+I2011
+sg8
+VAC Milan
+p616
+sg10
+VFC Barcelona
+p617
+sa(dp618
+g2
+I0
+sg3
+I1
+sg4
+I1
+sg5
+I5
+sg6
+I1
+sg7
+I2011
+sg8
+VValencia CF
+p619
+sg10
+VGenk
+p620
+sa(dp621
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I5
+sg6
+I1
+sg7
+I2011
+sg8
+VBayer Leverkusen
+p622
+sg10
+VChelsea FC
+p623
+sa(dp624
+g2
+I1
+sg3
+I0
+sg4
+I1
+sg5
+I6
+sg6
+I0
+sg7
+I2011
+sg8
+VGenk
+p625
+sg10
+VBayer Leverkusen
+p626
+sa(dp627
+g2
+I0
+sg3
+I3
+sg4
+I3
+sg5
+I6
+sg6
+I1
+sg7
+I2011
+sg8
+VChelsea FC
+p628
+sg10
+VValencia CF
+p629
+sa(dp630
+g2
+I2
+sg3
+I0
+sg4
+I2
+sg5
+I6
+sg6
+I0
+sg7
+I2011
+sg8
+VFC Porto
+p631
+sg10
+VFC Zenit St. Petersburg
+p632
+sa(dp633
+g2
+I1
+sg3
+I0
+sg4
+I1
+sg5
+I6
+sg6
+I-1
+sg7
+I2011
+sg8
+VAPOEL Nicosia
+p634
+sg10
+VShakhtar Donetsk
+p635
+sa(dp636
+g2
+I3
+sg3
+I4
+sg4
+I0
+sg5
+I6
+sg6
+I1
+sg7
+I2011
+sg8
+VOlympiacos F.C.
+p637
+sg10
+VArsenal FC
+p638
+sa(dp639
+g2
+I0
+sg3
+I4
+sg4
+I0
+sg5
+I6
+sg6
+I1
+sg7
+I2011
+sg8
+VFC Barcelona
+p640
+sg10
+VFK BATE Baryssau
+p641
+sa(dp642
+g2
+I2
+sg3
+I2
+sg4
+I0
+sg5
+I6
+sg6
+I-1
+sg7
+I2011
+sg8
+VBorussia Dortmund
+p643
+sg10
+VOlympique de Marseille
+p644
+sa(dp645
+g2
+I1
+sg3
+I0
+sg4
+I1
+sg5
+I6
+sg6
+I0
+sg7
+I2011
+sg8
+VViktoria Plze?
+p646
+sg10
+VAC Milan
+p647
+sa(dp648
+g2
+I0
+sg3
+I0
+sg4
+I2
+sg5
+I6
+sg6
+I0
+sg7
+I2011
+sg8
+VOSC Lille
+p649
+sg10
+VTrabzonspor Kulübü
+p650
+sa(dp651
+g2
+I1
+sg3
+I1
+sg4
+I2
+sg5
+I6
+sg6
+I1
+sg7
+I2011
+sg8
+VFC Basel
+p652
+sg10
+VManchester United FC
+p653
+sa(dp654
+g2
+I3
+sg3
+I3
+sg4
+I0
+sg5
+I6
+sg6
+I1
+sg7
+I2011
+sg8
+VManchester City FC
+p655
+sg10
+VFC Bayern München
+p656
+sa(dp657
+g2
+I1
+sg3
+I5
+sg4
+I0
+sg5
+I6
+sg6
+I-1
+sg7
+I2011
+sg8
+VFC Internazionale Milano
+p658
+sg10
+VCSKA Moscow
+p659
+sa(dp660
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I6
+sg6
+I-1
+sg7
+I2011
+sg8
+VVillarreal CF
+p661
+sg10
+VSSC Napoli
+p662
+sa(dp663
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I6
+sg6
+I1
+sg7
+I2011
+sg8
+VBenfica Lissabon
+p664
+sg10
+VOtelul Galati
+p665
+sa(dp666
+g2
+I6
+sg3
+I0
+sg4
+I0
+sg5
+I6
+sg6
+I-1
+sg7
+I2011
+sg8
+VAjax Amsterdam
+p667
+sg10
+VReal Madrid CF
+p668
+sa(dp669
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I6
+sg6
+I-1
+sg7
+I2011
+sg8
+VGNK Dinamo Zagreb
+p670
+sg10
+VOlympique Lyonnais
+p671
+sa(dp672
+g2
+I6
+sg3
+I1
+sg4
+I0
+sg5
+I7
+sg6
+I-1
+sg7
+I2011
+sg8
+VBayer Leverkusen
+p673
+sg10
+VFC Barcelona
+p674
+sa(dp675
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I7
+sg6
+I1
+sg7
+I2011
+sg8
+VOlympique Lyonnais
+p676
+sg10
+VAPOEL Nicosia
+p677
+sa(dp678
+g2
+I2
+sg3
+I1
+sg4
+I1
+sg5
+I7
+sg6
+I1
+sg7
+I2011
+sg8
+VAC Milan
+p679
+sg10
+VArsenal FC
+p680
+sa(dp681
+g2
+I1
+sg3
+I3
+sg4
+I0
+sg5
+I7
+sg6
+I1
+sg7
+I2011
+sg8
+VFC Zenit St. Petersburg
+p682
+sg10
+VBenfica Lissabon
+p683
+sa(dp684
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I7
+sg6
+I1
+sg7
+I2011
+sg8
+VSSC Napoli
+p685
+sg10
+VChelsea FC
+p686
+sa(dp687
+g2
+I1
+sg3
+I0
+sg4
+I1
+sg5
+I7
+sg6
+I0
+sg7
+I2011
+sg8
+VCSKA Moscow
+p688
+sg10
+VReal Madrid CF
+p689
+sa(dp690
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I7
+sg6
+I1
+sg7
+I2011
+sg8
+VOlympique de Marseille
+p691
+sg10
+VFC Internazionale Milano
+p692
+sa(dp693
+g2
+I3
+sg3
+I1
+sg4
+I0
+sg5
+I7
+sg6
+I1
+sg7
+I2011
+sg8
+VFC Basel
+p694
+sg10
+VFC Bayern München
+p695
+sa(dp696
+g2
+I1
+sg3
+I2
+sg4
+I1
+sg5
+I7
+sg6
+I1
+sg7
+I2011
+sg8
+VArsenal FC
+p697
+sg10
+VAC Milan
+p698
+sa(dp699
+g2
+I3
+sg3
+I1
+sg4
+I0
+sg5
+I7
+sg6
+I1
+sg7
+I2011
+sg8
+VBenfica Lissabon
+p700
+sg10
+VFC Zenit St. Petersburg
+p701
+sa(dp702
+g2
+I1
+sg3
+I6
+sg4
+I0
+sg5
+I7
+sg6
+I1
+sg7
+I2011
+sg8
+VFC Barcelona
+p703
+sg10
+VBayer Leverkusen
+p704
+sa(dp705
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I7
+sg6
+I1
+sg7
+I2011
+sg8
+VAPOEL Nicosia
+p706
+sg10
+VOlympique Lyonnais
+p707
+sa(dp708
+g2
+I1
+sg3
+I3
+sg4
+I0
+sg5
+I7
+sg6
+I1
+sg7
+I2011
+sg8
+VFC Bayern München
+p709
+sg10
+VFC Basel
+p710
+sa(dp711
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I7
+sg6
+I1
+sg7
+I2011
+sg8
+VFC Internazionale Milano
+p712
+sg10
+VOlympique de Marseille
+p713
+sa(dp714
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I7
+sg6
+I1
+sg7
+I2011
+sg8
+VChelsea FC
+p715
+sg10
+VSSC Napoli
+p716
+sa(dp717
+g2
+I0
+sg3
+I1
+sg4
+I1
+sg5
+I7
+sg6
+I1
+sg7
+I2011
+sg8
+VReal Madrid CF
+p718
+sg10
+VCSKA Moscow
+p719
+sa(dp720
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I8
+sg6
+I-1
+sg7
+I2011
+sg8
+VBenfica Lissabon
+p721
+sg10
+VChelsea FC
+p722
+sa(dp723
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I8
+sg6
+I-1
+sg7
+I2011
+sg8
+VAPOEL Nicosia
+p724
+sg10
+VReal Madrid CF
+p725
+sa(dp726
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I8
+sg6
+I-1
+sg7
+I2011
+sg8
+VOlympique de Marseille
+p727
+sg10
+VFC Bayern München
+p728
+sa(dp729
+g2
+I5
+sg3
+I1
+sg4
+I4
+sg5
+I8
+sg6
+I0
+sg7
+I2011
+sg8
+VAC Milan
+p730
+sg10
+VFC Barcelona
+p731
+sa(dp732
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I8
+sg6
+I1
+sg7
+I2011
+sg8
+VFC Bayern München
+p733
+sg10
+VOlympique de Marseille
+p734
+sa(dp735
+g2
+I1
+sg3
+I5
+sg4
+I4
+sg5
+I8
+sg6
+I1
+sg7
+I2011
+sg8
+VFC Barcelona
+p736
+sg10
+VAC Milan
+p737
+sa(dp738
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I8
+sg6
+I1
+sg7
+I2011
+sg8
+VChelsea FC
+p739
+sg10
+VBenfica Lissabon
+p740
+sa(dp741
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I8
+sg6
+I1
+sg7
+I2011
+sg8
+VReal Madrid CF
+p742
+sg10
+VAPOEL Nicosia
+p743
+sa(dp744
+g2
+I6
+sg3
+I3
+sg4
+I1
+sg5
+I9
+sg6
+I1
+sg7
+I2011
+sg8
+VFC Bayern München
+p745
+sg10
+VReal Madrid CF
+p746
+sa(dp747
+g2
+I2
+sg3
+I3
+sg4
+I5
+sg5
+I9
+sg6
+I1
+sg7
+I2011
+sg8
+VChelsea FC
+p748
+sg10
+VFC Barcelona
+p749
+sa(dp750
+g2
+I3
+sg3
+I2
+sg4
+I5
+sg5
+I9
+sg6
+I0
+sg7
+I2011
+sg8
+VFC Barcelona
+p751
+sg10
+VChelsea FC
+p752
+sa(dp753
+g2
+I3
+sg3
+I6
+sg4
+I1
+sg5
+I9
+sg6
+I1
+sg7
+I2011
+sg8
+VReal Madrid CF
+p754
+sg10
+VFC Bayern München
+p755
+sa(dp756
+g2
+I1
+sg3
+I1
+sg4
+I1
+sg5
+I10
+sg6
+I0
+sg7
+I2011
+sg8
+VFC Bayern München
+p757
+sg10
+VChelsea FC
+p758
+sa(dp759
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I1
+sg6
+I-1
+sg7
+I2012
+sg8
+VOlympiacos F.C.
+p760
+sg10
+VFC Schalke 04
+p761
+sa(dp762
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I1
+sg6
+I-1
+sg7
+I2012
+sg8
+VMontpellier Hérault SC
+p763
+sg10
+VArsenal FC
+p764
+sa(dp765
+g2
+I0
+sg3
+I1
+sg4
+I1
+sg5
+I1
+sg6
+I1
+sg7
+I2012
+sg8
+VReal Madrid CF
+p766
+sg10
+VManchester City FC
+p767
+sa(dp768
+g2
+I0
+sg3
+I1
+sg4
+I1
+sg5
+I1
+sg6
+I1
+sg7
+I2012
+sg8
+VMálaga CF
+p769
+sg10
+VFC Zenit St. Petersburg
+p770
+sa(dp771
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I1
+sg6
+I-1
+sg7
+I2012
+sg8
+VGNK Dinamo Zagreb
+p772
+sg10
+VFC Porto
+p773
+sa(dp774
+g2
+I0
+sg3
+I3
+sg4
+I1
+sg5
+I1
+sg6
+I0
+sg7
+I2012
+sg8
+VAC Milan
+p775
+sg10
+VRSC Anderlecht
+p776
+sa(dp777
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I1
+sg6
+I1
+sg7
+I2012
+sg8
+VParis Saint-Germain
+p778
+sg10
+VDynamo Kyiv
+p779
+sa(dp780
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I1
+sg6
+I1
+sg7
+I2012
+sg8
+VBorussia Dortmund
+p781
+sg10
+VAjax Amsterdam
+p782
+sa(dp783
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I1
+sg6
+I1
+sg7
+I2012
+sg8
+VShakhtar Donetsk
+p784
+sg10
+VNordsj&aelig;lland
+p785
+sa(dp786
+g2
+I0
+sg3
+I1
+sg4
+I1
+sg5
+I1
+sg6
+I1
+sg7
+I2012
+sg8
+VFC Bayern München
+p787
+sg10
+VValencia CF
+p788
+sa(dp789
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I1
+sg6
+I1
+sg7
+I2012
+sg8
+VFC Barcelona
+p790
+sg10
+VSpartak Moskau
+p791
+sa(dp792
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I1
+sg6
+I1
+sg7
+I2012
+sg8
+VManchester United FC
+p793
+sg10
+VGalatasaray SK
+p794
+sa(dp795
+g2
+I3
+sg3
+I2
+sg4
+I1
+sg5
+I1
+sg6
+I0
+sg7
+I2012
+sg8
+VCeltic
+p796
+sg10
+VBenfica Lissabon
+p797
+sa(dp798
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I1
+sg6
+I-1
+sg7
+I2012
+sg8
+VOSC Lille
+p799
+sg10
+VFK BATE Baryssau
+p800
+sa(dp801
+g2
+I1
+sg3
+I1
+sg4
+I2
+sg5
+I1
+sg6
+I0
+sg7
+I2012
+sg8
+VChelsea FC
+p802
+sg10
+VJuventus Turin
+p803
+sa(dp804
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I1
+sg6
+I-1
+sg7
+I2012
+sg8
+VSporting Braga
+p805
+sg10
+VCFR Cluj
+p806
+sa(dp807
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I2
+sg6
+I1
+sg7
+I2012
+sg8
+VValencia CF
+p808
+sg10
+VOSC Lille
+p809
+sa(dp810
+g2
+I2
+sg3
+I0
+sg4
+I2
+sg5
+I2
+sg6
+I-1
+sg7
+I2012
+sg8
+VBenfica Lissabon
+p811
+sg10
+VFC Barcelona
+p812
+sa(dp813
+g2
+I0
+sg3
+I1
+sg4
+I1
+sg5
+I2
+sg6
+I0
+sg7
+I2012
+sg8
+VJuventus Turin
+p814
+sg10
+VShakhtar Donetsk
+p815
+sa(dp816
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I2
+sg6
+I-1
+sg7
+I2012
+sg8
+VNordsj&aelig;lland
+p817
+sg10
+VChelsea FC
+p818
+sa(dp819
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I2
+sg6
+I1
+sg7
+I2012
+sg8
+VFK BATE Baryssau
+p820
+sg10
+VFC Bayern München
+p821
+sa(dp822
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I2
+sg6
+I-1
+sg7
+I2012
+sg8
+VSpartak Moskau
+p823
+sg10
+VCeltic
+p824
+sa(dp825
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I2
+sg6
+I-1
+sg7
+I2012
+sg8
+VGalatasaray SK
+p826
+sg10
+VSporting Braga
+p827
+sa(dp828
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I2
+sg6
+I-1
+sg7
+I2012
+sg8
+VCFR Cluj
+p829
+sg10
+VManchester United FC
+p830
+sa(dp831
+g2
+I1
+sg3
+I0
+sg4
+I1
+sg5
+I2
+sg6
+I0
+sg7
+I2012
+sg8
+VManchester City FC
+p832
+sg10
+VBorussia Dortmund
+p833
+sa(dp834
+g2
+I0
+sg3
+I1
+sg4
+I1
+sg5
+I2
+sg6
+I1
+sg7
+I2012
+sg8
+VDynamo Kyiv
+p835
+sg10
+VGNK Dinamo Zagreb
+p836
+sa(dp837
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I2
+sg6
+I-1
+sg7
+I2012
+sg8
+VFC Zenit St. Petersburg
+p838
+sg10
+VAC Milan
+p839
+sa(dp840
+g2
+I1
+sg3
+I0
+sg4
+I1
+sg5
+I2
+sg6
+I-1
+sg7
+I2012
+sg8
+VRSC Anderlecht
+p841
+sg10
+VMálaga CF
+p842
+sa(dp843
+g2
+I6
+sg3
+I0
+sg4
+I0
+sg5
+I2
+sg6
+I-1
+sg7
+I2012
+sg8
+VAjax Amsterdam
+p844
+sg10
+VReal Madrid CF
+p845
+sa(dp846
+g2
+I4
+sg3
+I3
+sg4
+I0
+sg5
+I2
+sg6
+I1
+sg7
+I2012
+sg8
+VArsenal FC
+p847
+sg10
+VOlympiacos F.C.
+p848
+sa(dp849
+g2
+I0
+sg3
+I0
+sg4
+I2
+sg5
+I2
+sg6
+I0
+sg7
+I2012
+sg8
+VFC Schalke 04
+p850
+sg10
+VMontpellier Hérault SC
+p851
+sa(dp852
+g2
+I2
+sg3
+I1
+sg4
+I1
+sg5
+I2
+sg6
+I1
+sg7
+I2012
+sg8
+VFC Porto
+p853
+sg10
+VParis Saint-Germain
+p854
+sa(dp855
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I3
+sg6
+I-1
+sg7
+I2012
+sg8
+VFK BATE Baryssau
+p856
+sg10
+VValencia CF
+p857
+sa(dp858
+g2
+I1
+sg3
+I0
+sg4
+I1
+sg5
+I3
+sg6
+I0
+sg7
+I2012
+sg8
+VNordsj&aelig;lland
+p859
+sg10
+VJuventus Turin
+p860
+sa(dp861
+g2
+I0
+sg3
+I1
+sg4
+I1
+sg5
+I3
+sg6
+I0
+sg7
+I2012
+sg8
+VGalatasaray SK
+p862
+sg10
+VCFR Cluj
+p863
+sa(dp864
+g2
+I1
+sg3
+I6
+sg4
+I1
+sg5
+I3
+sg6
+I1
+sg7
+I2012
+sg8
+VFC Barcelona
+p865
+sg10
+VCeltic
+p866
+sa(dp867
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I3
+sg6
+I1
+sg7
+I2012
+sg8
+VManchester United FC
+p868
+sg10
+VSporting Braga
+p869
+sa(dp870
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I3
+sg6
+I1
+sg7
+I2012
+sg8
+VShakhtar Donetsk
+p871
+sg10
+VChelsea FC
+p872
+sa(dp873
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I3
+sg6
+I-1
+sg7
+I2012
+sg8
+VOSC Lille
+p874
+sg10
+VFC Bayern München
+p875
+sa(dp876
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I3
+sg6
+I1
+sg7
+I2012
+sg8
+VSpartak Moskau
+p877
+sg10
+VBenfica Lissabon
+p878
+sa(dp879
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I3
+sg6
+I-1
+sg7
+I2012
+sg8
+VMontpellier Hérault SC
+p880
+sg10
+VOlympiacos F.C.
+p881
+sa(dp882
+g2
+I2
+sg3
+I1
+sg4
+I1
+sg5
+I3
+sg6
+I-1
+sg7
+I2012
+sg8
+VArsenal FC
+p883
+sg10
+VFC Schalke 04
+p884
+sa(dp885
+g2
+I2
+sg3
+I2
+sg4
+I2
+sg5
+I3
+sg6
+I1
+sg7
+I2012
+sg8
+VFC Porto
+p886
+sg10
+VDynamo Kyiv
+p887
+sa(dp888
+g2
+I0
+sg3
+I1
+sg4
+I1
+sg5
+I3
+sg6
+I1
+sg7
+I2012
+sg8
+VMálaga CF
+p889
+sg10
+VAC Milan
+p890
+sa(dp891
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I3
+sg6
+I-1
+sg7
+I2012
+sg8
+VGNK Dinamo Zagreb
+p892
+sg10
+VParis Saint-Germain
+p893
+sa(dp894
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I3
+sg6
+I1
+sg7
+I2012
+sg8
+VFC Zenit St. Petersburg
+p895
+sg10
+VRSC Anderlecht
+p896
+sa(dp897
+g2
+I3
+sg3
+I3
+sg4
+I2
+sg5
+I3
+sg6
+I1
+sg7
+I2012
+sg8
+VBorussia Dortmund
+p898
+sg10
+VReal Madrid CF
+p899
+sa(dp900
+g2
+I0
+sg3
+I1
+sg4
+I1
+sg5
+I3
+sg6
+I1
+sg7
+I2012
+sg8
+VAjax Amsterdam
+p901
+sg10
+VManchester City FC
+p902
+sa(dp903
+g2
+I1
+sg3
+I0
+sg4
+I1
+sg5
+I4
+sg6
+I0
+sg7
+I2012
+sg8
+VAC Milan
+p904
+sg10
+VMálaga CF
+p905
+sa(dp906
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I4
+sg6
+I1
+sg7
+I2012
+sg8
+VOlympiacos F.C.
+p907
+sg10
+VMontpellier Hérault SC
+p908
+sa(dp909
+g2
+I1
+sg3
+I0
+sg4
+I1
+sg5
+I4
+sg6
+I0
+sg7
+I2012
+sg8
+VManchester City FC
+p910
+sg10
+VAjax Amsterdam
+p911
+sa(dp912
+g2
+I1
+sg3
+I2
+sg4
+I1
+sg5
+I4
+sg6
+I0
+sg7
+I2012
+sg8
+VFC Schalke 04
+p913
+sg10
+VArsenal FC
+p914
+sa(dp915
+g2
+I2
+sg3
+I2
+sg4
+I2
+sg5
+I4
+sg6
+I0
+sg7
+I2012
+sg8
+VDynamo Kyiv
+p916
+sg10
+VFC Porto
+p917
+sa(dp918
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I4
+sg6
+I1
+sg7
+I2012
+sg8
+VRSC Anderlecht
+p919
+sg10
+VFC Zenit St. Petersburg
+p920
+sa(dp921
+g2
+I3
+sg3
+I3
+sg4
+I2
+sg5
+I4
+sg6
+I0
+sg7
+I2012
+sg8
+VReal Madrid CF
+p922
+sg10
+VBorussia Dortmund
+p923
+sa(dp924
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I4
+sg6
+I1
+sg7
+I2012
+sg8
+VParis Saint-Germain
+p925
+sg10
+VGNK Dinamo Zagreb
+p926
+sa(dp927
+g2
+I0
+sg3
+I1
+sg4
+I1
+sg5
+I4
+sg6
+I1
+sg7
+I2012
+sg8
+VJuventus Turin
+p928
+sg10
+VNordsj&aelig;lland
+p929
+sa(dp930
+g2
+I1
+sg3
+I0
+sg4
+I1
+sg5
+I4
+sg6
+I-1
+sg7
+I2012
+sg8
+VCFR Cluj
+p931
+sg10
+VGalatasaray SK
+p932
+sa(dp933
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I4
+sg6
+I-1
+sg7
+I2012
+sg8
+VSporting Braga
+p934
+sg10
+VManchester United FC
+p935
+sa(dp936
+g2
+I6
+sg3
+I1
+sg4
+I1
+sg5
+I4
+sg6
+I1
+sg7
+I2012
+sg8
+VCeltic
+p937
+sg10
+VFC Barcelona
+p938
+sa(dp939
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I4
+sg6
+I1
+sg7
+I2012
+sg8
+VValencia CF
+p940
+sg10
+VFK BATE Baryssau
+p941
+sa(dp942
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I4
+sg6
+I1
+sg7
+I2012
+sg8
+VBenfica Lissabon
+p943
+sg10
+VSpartak Moskau
+p944
+sa(dp945
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I4
+sg6
+I1
+sg7
+I2012
+sg8
+VChelsea FC
+p946
+sg10
+VShakhtar Donetsk
+p947
+sa(dp948
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I4
+sg6
+I1
+sg7
+I2012
+sg8
+VFC Bayern München
+p949
+sg10
+VOSC Lille
+p950
+sa(dp951
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I5
+sg6
+I-1
+sg7
+I2012
+sg8
+VSpartak Moskau
+p952
+sg10
+VFC Barcelona
+p953
+sa(dp954
+g2
+I2
+sg3
+I3
+sg4
+I1
+sg5
+I5
+sg6
+I1
+sg7
+I2012
+sg8
+VBenfica Lissabon
+p955
+sg10
+VCeltic
+p956
+sa(dp957
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I5
+sg6
+I1
+sg7
+I2012
+sg8
+VGalatasaray SK
+p958
+sg10
+VManchester United FC
+p959
+sa(dp960
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I5
+sg6
+I-1
+sg7
+I2012
+sg8
+VFK BATE Baryssau
+p961
+sg10
+VOSC Lille
+p962
+sa(dp963
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I5
+sg6
+I1
+sg7
+I2012
+sg8
+VCFR Cluj
+p964
+sg10
+VSporting Braga
+p965
+sa(dp966
+g2
+I1
+sg3
+I1
+sg4
+I2
+sg5
+I5
+sg6
+I1
+sg7
+I2012
+sg8
+VJuventus Turin
+p967
+sg10
+VChelsea FC
+p968
+sa(dp969
+g2
+I1
+sg3
+I0
+sg4
+I1
+sg5
+I5
+sg6
+I0
+sg7
+I2012
+sg8
+VValencia CF
+p970
+sg10
+VFC Bayern München
+p971
+sa(dp972
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I5
+sg6
+I-1
+sg7
+I2012
+sg8
+VNordsj&aelig;lland
+p973
+sg10
+VShakhtar Donetsk
+p974
+sa(dp975
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I5
+sg6
+I1
+sg7
+I2012
+sg8
+VFC Porto
+p976
+sg10
+VGNK Dinamo Zagreb
+p977
+sa(dp978
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I5
+sg6
+I-1
+sg7
+I2012
+sg8
+VDynamo Kyiv
+p979
+sg10
+VParis Saint-Germain
+p980
+sa(dp981
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I5
+sg6
+I1
+sg7
+I2012
+sg8
+VFC Schalke 04
+p982
+sg10
+VOlympiacos F.C.
+p983
+sa(dp984
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I5
+sg6
+I1
+sg7
+I2012
+sg8
+VArsenal FC
+p985
+sg10
+VMontpellier Hérault SC
+p986
+sa(dp987
+g2
+I1
+sg3
+I0
+sg4
+I1
+sg5
+I5
+sg6
+I0
+sg7
+I2012
+sg8
+VManchester City FC
+p988
+sg10
+VReal Madrid CF
+p989
+sa(dp990
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I5
+sg6
+I-1
+sg7
+I2012
+sg8
+VAjax Amsterdam
+p991
+sg10
+VBorussia Dortmund
+p992
+sa(dp993
+g2
+I3
+sg3
+I0
+sg4
+I1
+sg5
+I5
+sg6
+I-1
+sg7
+I2012
+sg8
+VRSC Anderlecht
+p994
+sg10
+VAC Milan
+p995
+sa(dp996
+g2
+I1
+sg3
+I0
+sg4
+I1
+sg5
+I5
+sg6
+I0
+sg7
+I2012
+sg8
+VFC Zenit St. Petersburg
+p997
+sg10
+VMálaga CF
+p998
+sa(dp999
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I6
+sg6
+I-1
+sg7
+I2012
+sg8
+VAC Milan
+p1000
+sg10
+VFC Zenit St. Petersburg
+p1001
+sa(dp1002
+g2
+I0
+sg3
+I6
+sg4
+I0
+sg5
+I6
+sg6
+I1
+sg7
+I2012
+sg8
+VReal Madrid CF
+p1003
+sg10
+VAjax Amsterdam
+p1004
+sa(dp1005
+g2
+I1
+sg3
+I0
+sg4
+I1
+sg5
+I6
+sg6
+I0
+sg7
+I2012
+sg8
+VGNK Dinamo Zagreb
+p1006
+sg10
+VDynamo Kyiv
+p1007
+sa(dp1008
+g2
+I0
+sg3
+I1
+sg4
+I1
+sg5
+I6
+sg6
+I0
+sg7
+I2012
+sg8
+VMálaga CF
+p1009
+sg10
+VRSC Anderlecht
+p1010
+sa(dp1011
+g2
+I3
+sg3
+I4
+sg4
+I0
+sg5
+I6
+sg6
+I1
+sg7
+I2012
+sg8
+VOlympiacos F.C.
+p1012
+sg10
+VArsenal FC
+p1013
+sa(dp1014
+g2
+I0
+sg3
+I1
+sg4
+I1
+sg5
+I6
+sg6
+I1
+sg7
+I2012
+sg8
+VBorussia Dortmund
+p1015
+sg10
+VManchester City FC
+p1016
+sa(dp1017
+g2
+I1
+sg3
+I2
+sg4
+I1
+sg5
+I6
+sg6
+I1
+sg7
+I2012
+sg8
+VParis Saint-Germain
+p1018
+sg10
+VFC Porto
+p1019
+sa(dp1020
+g2
+I0
+sg3
+I0
+sg4
+I2
+sg5
+I6
+sg6
+I0
+sg7
+I2012
+sg8
+VMontpellier Hérault SC
+p1021
+sg10
+VFC Schalke 04
+p1022
+sa(dp1023
+g2
+I0
+sg3
+I2
+sg4
+I2
+sg5
+I6
+sg6
+I0
+sg7
+I2012
+sg8
+VFC Barcelona
+p1024
+sg10
+VBenfica Lissabon
+p1025
+sa(dp1026
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I6
+sg6
+I-1
+sg7
+I2012
+sg8
+VManchester United FC
+p1027
+sg10
+VCFR Cluj
+p1028
+sa(dp1029
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I6
+sg6
+I-1
+sg7
+I2012
+sg8
+VOSC Lille
+p1030
+sg10
+VValencia CF
+p1031
+sa(dp1032
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I6
+sg6
+I1
+sg7
+I2012
+sg8
+VCeltic
+p1033
+sg10
+VSpartak Moskau
+p1034
+sa(dp1035
+g2
+I1
+sg3
+I0
+sg4
+I1
+sg5
+I6
+sg6
+I-1
+sg7
+I2012
+sg8
+VShakhtar Donetsk
+p1036
+sg10
+VJuventus Turin
+p1037
+sa(dp1038
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I6
+sg6
+I1
+sg7
+I2012
+sg8
+VChelsea FC
+p1039
+sg10
+VNordsj&aelig;lland
+p1040
+sa(dp1041
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I6
+sg6
+I1
+sg7
+I2012
+sg8
+VFC Bayern München
+p1042
+sg10
+VFK BATE Baryssau
+p1043
+sa(dp1044
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I6
+sg6
+I-1
+sg7
+I2012
+sg8
+VSporting Braga
+p1045
+sg10
+VGalatasaray SK
+p1046
+sa(dp1047
+g2
+I3
+sg3
+I1
+sg4
+I0
+sg5
+I7
+sg6
+I-1
+sg7
+I2012
+sg8
+VCeltic
+p1048
+sg10
+VJuventus Turin
+p1049
+sa(dp1050
+g2
+I1
+sg3
+I0
+sg4
+I1
+sg5
+I7
+sg6
+I-1
+sg7
+I2012
+sg8
+VValencia CF
+p1051
+sg10
+VParis Saint-Germain
+p1052
+sa(dp1053
+g2
+I1
+sg3
+I0
+sg4
+I1
+sg5
+I7
+sg6
+I0
+sg7
+I2012
+sg8
+VShakhtar Donetsk
+p1054
+sg10
+VBorussia Dortmund
+p1055
+sa(dp1056
+g2
+I1
+sg3
+I2
+sg4
+I1
+sg5
+I7
+sg6
+I0
+sg7
+I2012
+sg8
+VReal Madrid CF
+p1057
+sg10
+VManchester United FC
+p1058
+sa(dp1059
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I7
+sg6
+I1
+sg7
+I2012
+sg8
+VFC Porto
+p1060
+sg10
+VMálaga CF
+p1061
+sa(dp1062
+g2
+I4
+sg3
+I3
+sg4
+I1
+sg5
+I7
+sg6
+I-1
+sg7
+I2012
+sg8
+VArsenal FC
+p1063
+sg10
+VFC Bayern München
+p1064
+sa(dp1065
+g2
+I5
+sg3
+I1
+sg4
+I4
+sg5
+I7
+sg6
+I1
+sg7
+I2012
+sg8
+VAC Milan
+p1066
+sg10
+VFC Barcelona
+p1067
+sa(dp1068
+g2
+I0
+sg3
+I1
+sg4
+I1
+sg5
+I7
+sg6
+I0
+sg7
+I2012
+sg8
+VGalatasaray SK
+p1069
+sg10
+VFC Schalke 04
+p1070
+sa(dp1071
+g2
+I2
+sg3
+I1
+sg4
+I1
+sg5
+I7
+sg6
+I-1
+sg7
+I2012
+sg8
+VManchester United FC
+p1072
+sg10
+VReal Madrid CF
+p1073
+sa(dp1074
+g2
+I0
+sg3
+I1
+sg4
+I1
+sg5
+I7
+sg6
+I1
+sg7
+I2012
+sg8
+VBorussia Dortmund
+p1075
+sg10
+VShakhtar Donetsk
+p1076
+sa(dp1077
+g2
+I0
+sg3
+I1
+sg4
+I1
+sg5
+I7
+sg6
+I0
+sg7
+I2012
+sg8
+VParis Saint-Germain
+p1078
+sg10
+VValencia CF
+p1079
+sa(dp1080
+g2
+I1
+sg3
+I3
+sg4
+I0
+sg5
+I7
+sg6
+I1
+sg7
+I2012
+sg8
+VJuventus Turin
+p1081
+sg10
+VCeltic
+p1082
+sa(dp1083
+g2
+I1
+sg3
+I0
+sg4
+I1
+sg5
+I7
+sg6
+I-1
+sg7
+I2012
+sg8
+VFC Schalke 04
+p1084
+sg10
+VGalatasaray SK
+p1085
+sa(dp1086
+g2
+I1
+sg3
+I5
+sg4
+I4
+sg5
+I7
+sg6
+I1
+sg7
+I2012
+sg8
+VFC Barcelona
+p1087
+sg10
+VAC Milan
+p1088
+sa(dp1089
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I7
+sg6
+I1
+sg7
+I2012
+sg8
+VMálaga CF
+p1090
+sg10
+VFC Porto
+p1091
+sa(dp1092
+g2
+I3
+sg3
+I4
+sg4
+I1
+sg5
+I7
+sg6
+I-1
+sg7
+I2012
+sg8
+VFC Bayern München
+p1093
+sg10
+VArsenal FC
+p1094
+sa(dp1095
+g2
+I3
+sg3
+I1
+sg4
+I2
+sg5
+I8
+sg6
+I0
+sg7
+I2012
+sg8
+VParis Saint-Germain
+p1096
+sg10
+VFC Barcelona
+p1097
+sa(dp1098
+g2
+I3
+sg3
+I4
+sg4
+I1
+sg5
+I8
+sg6
+I1
+sg7
+I2012
+sg8
+VFC Bayern München
+p1099
+sg10
+VJuventus Turin
+p1100
+sa(dp1101
+g2
+I1
+sg3
+I0
+sg4
+I1
+sg5
+I8
+sg6
+I0
+sg7
+I2012
+sg8
+VMálaga CF
+p1102
+sg10
+VBorussia Dortmund
+p1103
+sa(dp1104
+g2
+I1
+sg3
+I3
+sg4
+I0
+sg5
+I8
+sg6
+I1
+sg7
+I2012
+sg8
+VReal Madrid CF
+p1105
+sg10
+VGalatasaray SK
+p1106
+sa(dp1107
+g2
+I3
+sg3
+I1
+sg4
+I0
+sg5
+I8
+sg6
+I1
+sg7
+I2012
+sg8
+VGalatasaray SK
+p1108
+sg10
+VReal Madrid CF
+p1109
+sa(dp1110
+g2
+I0
+sg3
+I1
+sg4
+I1
+sg5
+I8
+sg6
+I1
+sg7
+I2012
+sg8
+VBorussia Dortmund
+p1111
+sg10
+VMálaga CF
+p1112
+sa(dp1113
+g2
+I4
+sg3
+I3
+sg4
+I1
+sg5
+I8
+sg6
+I-1
+sg7
+I2012
+sg8
+VJuventus Turin
+p1114
+sg10
+VFC Bayern München
+p1115
+sa(dp1116
+g2
+I1
+sg3
+I3
+sg4
+I2
+sg5
+I8
+sg6
+I0
+sg7
+I2012
+sg8
+VFC Barcelona
+p1117
+sg10
+VParis Saint-Germain
+p1118
+sa(dp1119
+g2
+I2
+sg3
+I3
+sg4
+I1
+sg5
+I9
+sg6
+I1
+sg7
+I2012
+sg8
+VFC Bayern München
+p1120
+sg10
+VFC Barcelona
+p1121
+sa(dp1122
+g2
+I3
+sg3
+I3
+sg4
+I2
+sg5
+I9
+sg6
+I1
+sg7
+I2012
+sg8
+VBorussia Dortmund
+p1123
+sg10
+VReal Madrid CF
+p1124
+sa(dp1125
+g2
+I3
+sg3
+I3
+sg4
+I2
+sg5
+I9
+sg6
+I1
+sg7
+I2012
+sg8
+VReal Madrid CF
+p1126
+sg10
+VBorussia Dortmund
+p1127
+sa(dp1128
+g2
+I3
+sg3
+I2
+sg4
+I1
+sg5
+I9
+sg6
+I-1
+sg7
+I2012
+sg8
+VFC Barcelona
+p1129
+sg10
+VFC Bayern München
+p1130
+sa(dp1131
+g2
+I5
+sg3
+I3
+sg4
+I2
+sg5
+I10
+sg6
+I-1
+sg7
+I2012
+sg8
+VBorussia Dortmund
+p1132
+sg10
+VFC Bayern München
+p1133
+sa(dp1134
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I1
+sg6
+I-1
+sg7
+I2013
+sg8
+VViktoria Plze?
+p1135
+sg10
+VManchester City FC
+p1136
+sa(dp1137
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I1
+sg6
+I-1
+sg7
+I2013
+sg8
+VReal Sociedad de Fútbol
+p1138
+sg10
+VShakhtar Donetsk
+p1139
+sa(dp1140
+g2
+I0
+sg3
+I3
+sg4
+I2
+sg5
+I1
+sg6
+I1
+sg7
+I2013
+sg8
+VManchester United FC
+p1141
+sg10
+VBayer Leverkusen
+p1142
+sa(dp1143
+g2
+I1
+sg3
+I0
+sg4
+I1
+sg5
+I1
+sg6
+I0
+sg7
+I2013
+sg8
+VFC Copenhagen
+p1144
+sg10
+VJuventus Turin
+p1145
+sa(dp1146
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I1
+sg6
+I1
+sg7
+I2013
+sg8
+VBenfica Lissabon
+p1147
+sg10
+VRSC Anderlecht
+p1148
+sa(dp1149
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I1
+sg6
+I-1
+sg7
+I2013
+sg8
+VOlympiacos F.C.
+p1150
+sg10
+VParis Saint-Germain
+p1151
+sa(dp1152
+g2
+I0
+sg3
+I4
+sg4
+I0
+sg5
+I1
+sg6
+I1
+sg7
+I2013
+sg8
+VFC Bayern München
+p1153
+sg10
+VCSKA Moscow
+p1154
+sa(dp1155
+g2
+I3
+sg3
+I1
+sg4
+I0
+sg5
+I1
+sg6
+I-1
+sg7
+I2013
+sg8
+VGalatasaray SK
+p1156
+sg10
+VReal Madrid CF
+p1157
+sa(dp1158
+g2
+I1
+sg3
+I3
+sg4
+I0
+sg5
+I1
+sg6
+I1
+sg7
+I2013
+sg8
+VFC Barcelona
+p1159
+sg10
+VAjax Amsterdam
+p1160
+sa(dp1161
+g2
+I0
+sg3
+I1
+sg4
+I1
+sg5
+I1
+sg6
+I1
+sg7
+I2013
+sg8
+VClub Atlético de Madrid
+p1162
+sg10
+VFC Zenit St. Petersburg
+p1163
+sa(dp1164
+g2
+I1
+sg3
+I4
+sg4
+I3
+sg5
+I1
+sg6
+I1
+sg7
+I2013
+sg8
+VAC Milan
+p1165
+sg10
+VCeltic
+p1166
+sa(dp1167
+g2
+I3
+sg3
+I0
+sg4
+I1
+sg5
+I1
+sg6
+I-1
+sg7
+I2013
+sg8
+VOlympique de Marseille
+p1168
+sg10
+VArsenal FC
+p1169
+sa(dp1170
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I1
+sg6
+I1
+sg7
+I2013
+sg8
+VSSC Napoli
+p1171
+sg10
+VBorussia Dortmund
+p1172
+sa(dp1173
+g2
+I1
+sg3
+I0
+sg4
+I1
+sg5
+I1
+sg6
+I-1
+sg7
+I2013
+sg8
+VAustria Wien
+p1174
+sg10
+VFC Porto
+p1175
+sa(dp1176
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I1
+sg6
+I-1
+sg7
+I2013
+sg8
+VChelsea FC
+p1177
+sg10
+VFC Basel
+p1178
+sa(dp1179
+g2
+I0
+sg3
+I1
+sg4
+I1
+sg5
+I1
+sg6
+I1
+sg7
+I2013
+sg8
+VFC Schalke 04
+p1180
+sg10
+VSteaua Bucuresti
+p1181
+sa(dp1182
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I2
+sg6
+I-1
+sg7
+I2013
+sg8
+VSteaua Bucuresti
+p1183
+sg10
+VChelsea FC
+p1184
+sa(dp1185
+g2
+I2
+sg3
+I2
+sg4
+I0
+sg5
+I2
+sg6
+I1
+sg7
+I2013
+sg8
+VBorussia Dortmund
+p1186
+sg10
+VOlympique de Marseille
+p1187
+sa(dp1188
+g2
+I3
+sg3
+I1
+sg4
+I4
+sg5
+I2
+sg6
+I0
+sg7
+I2013
+sg8
+VAjax Amsterdam
+p1189
+sg10
+VAC Milan
+p1190
+sa(dp1191
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I2
+sg6
+I-1
+sg7
+I2013
+sg8
+VFC Basel
+p1192
+sg10
+VFC Schalke 04
+p1193
+sa(dp1194
+g2
+I2
+sg3
+I2
+sg4
+I2
+sg5
+I2
+sg6
+I-1
+sg7
+I2013
+sg8
+VFC Porto
+p1195
+sg10
+VClub Atlético de Madrid
+p1196
+sa(dp1197
+g2
+I6
+sg3
+I1
+sg4
+I1
+sg5
+I2
+sg6
+I-1
+sg7
+I2013
+sg8
+VCeltic
+p1198
+sg10
+VFC Barcelona
+p1199
+sa(dp1200
+g2
+I1
+sg3
+I0
+sg4
+I1
+sg5
+I2
+sg6
+I0
+sg7
+I2013
+sg8
+VFC Zenit St. Petersburg
+p1201
+sg10
+VAustria Wien
+p1202
+sa(dp1203
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I2
+sg6
+I1
+sg7
+I2013
+sg8
+VArsenal FC
+p1204
+sg10
+VSSC Napoli
+p1205
+sa(dp1206
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I2
+sg6
+I1
+sg7
+I2013
+sg8
+VReal Madrid CF
+p1207
+sg10
+VFC Copenhagen
+p1208
+sa(dp1209
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I2
+sg6
+I1
+sg7
+I2013
+sg8
+VCSKA Moscow
+p1210
+sg10
+VViktoria Plze?
+p1211
+sa(dp1212
+g2
+I3
+sg3
+I3
+sg4
+I0
+sg5
+I2
+sg6
+I-1
+sg7
+I2013
+sg8
+VManchester City FC
+p1213
+sg10
+VFC Bayern München
+p1214
+sa(dp1215
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I2
+sg6
+I1
+sg7
+I2013
+sg8
+VParis Saint-Germain
+p1216
+sg10
+VBenfica Lissabon
+p1217
+sa(dp1218
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I2
+sg6
+I-1
+sg7
+I2013
+sg8
+VRSC Anderlecht
+p1219
+sg10
+VOlympiacos F.C.
+p1220
+sa(dp1221
+g2
+I2
+sg3
+I1
+sg4
+I1
+sg5
+I2
+sg6
+I0
+sg7
+I2013
+sg8
+VJuventus Turin
+p1222
+sg10
+VGalatasaray SK
+p1223
+sa(dp1224
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I2
+sg6
+I1
+sg7
+I2013
+sg8
+VBayer Leverkusen
+p1225
+sg10
+VReal Sociedad de Fútbol
+p1226
+sa(dp1227
+g2
+I1
+sg3
+I0
+sg4
+I1
+sg5
+I2
+sg6
+I0
+sg7
+I2013
+sg8
+VShakhtar Donetsk
+p1228
+sg10
+VManchester United FC
+p1229
+sa(dp1230
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I3
+sg6
+I-1
+sg7
+I2013
+sg8
+VOlympique de Marseille
+p1231
+sg10
+VSSC Napoli
+p1232
+sa(dp1233
+g2
+I3
+sg3
+I3
+sg4
+I1
+sg5
+I3
+sg6
+I-1
+sg7
+I2013
+sg8
+VArsenal FC
+p1234
+sg10
+VBorussia Dortmund
+p1235
+sa(dp1236
+g2
+I5
+sg3
+I1
+sg4
+I4
+sg5
+I3
+sg6
+I0
+sg7
+I2013
+sg8
+VAC Milan
+p1237
+sg10
+VFC Barcelona
+p1238
+sa(dp1239
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I3
+sg6
+I-1
+sg7
+I2013
+sg8
+VAustria Wien
+p1240
+sg10
+VClub Atlético de Madrid
+p1241
+sa(dp1242
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I3
+sg6
+I1
+sg7
+I2013
+sg8
+VCeltic
+p1243
+sg10
+VAjax Amsterdam
+p1244
+sa(dp1245
+g2
+I4
+sg3
+I0
+sg4
+I2
+sg5
+I3
+sg6
+I-1
+sg7
+I2013
+sg8
+VFC Schalke 04
+p1246
+sg10
+VChelsea FC
+p1247
+sa(dp1248
+g2
+I0
+sg3
+I0
+sg4
+I2
+sg5
+I3
+sg6
+I0
+sg7
+I2013
+sg8
+VSteaua Bucuresti
+p1249
+sg10
+VFC Basel
+p1250
+sa(dp1251
+g2
+I2
+sg3
+I0
+sg4
+I2
+sg5
+I3
+sg6
+I-1
+sg7
+I2013
+sg8
+VFC Porto
+p1252
+sg10
+VFC Zenit St. Petersburg
+p1253
+sa(dp1254
+g2
+I5
+sg3
+I3
+sg4
+I2
+sg5
+I3
+sg6
+I1
+sg7
+I2013
+sg8
+VReal Madrid CF
+p1255
+sg10
+VJuventus Turin
+p1256
+sa(dp1257
+g2
+I2
+sg3
+I1
+sg4
+I1
+sg5
+I3
+sg6
+I-1
+sg7
+I2013
+sg8
+VCSKA Moscow
+p1258
+sg10
+VManchester City FC
+p1259
+sa(dp1260
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I3
+sg6
+I1
+sg7
+I2013
+sg8
+VGalatasaray SK
+p1261
+sg10
+VFC Copenhagen
+p1262
+sa(dp1263
+g2
+I0
+sg3
+I1
+sg4
+I1
+sg5
+I3
+sg6
+I1
+sg7
+I2013
+sg8
+VManchester United FC
+p1264
+sg10
+VReal Sociedad de Fútbol
+p1265
+sa(dp1266
+g2
+I1
+sg3
+I0
+sg4
+I1
+sg5
+I3
+sg6
+I-1
+sg7
+I2013
+sg8
+VRSC Anderlecht
+p1267
+sg10
+VParis Saint-Germain
+p1268
+sa(dp1269
+g2
+I1
+sg3
+I0
+sg4
+I1
+sg5
+I3
+sg6
+I0
+sg7
+I2013
+sg8
+VBenfica Lissabon
+p1270
+sg10
+VOlympiacos F.C.
+p1271
+sa(dp1272
+g2
+I0
+sg3
+I1
+sg4
+I1
+sg5
+I3
+sg6
+I1
+sg7
+I2013
+sg8
+VBayer Leverkusen
+p1273
+sg10
+VShakhtar Donetsk
+p1274
+sa(dp1275
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I3
+sg6
+I1
+sg7
+I2013
+sg8
+VFC Bayern München
+p1276
+sg10
+VViktoria Plze?
+p1277
+sa(dp1278
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I4
+sg6
+I-1
+sg7
+I2013
+sg8
+VViktoria Plze?
+p1279
+sg10
+VFC Bayern München
+p1280
+sa(dp1281
+g2
+I0
+sg3
+I1
+sg4
+I1
+sg5
+I4
+sg6
+I1
+sg7
+I2013
+sg8
+VOlympiacos F.C.
+p1282
+sg10
+VBenfica Lissabon
+p1283
+sa(dp1284
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I4
+sg6
+I1
+sg7
+I2013
+sg8
+VFC Copenhagen
+p1285
+sg10
+VGalatasaray SK
+p1286
+sa(dp1287
+g2
+I3
+sg3
+I5
+sg4
+I2
+sg5
+I4
+sg6
+I0
+sg7
+I2013
+sg8
+VJuventus Turin
+p1288
+sg10
+VReal Madrid CF
+p1289
+sa(dp1290
+g2
+I0
+sg3
+I1
+sg4
+I1
+sg5
+I4
+sg6
+I0
+sg7
+I2013
+sg8
+VParis Saint-Germain
+p1291
+sg10
+VRSC Anderlecht
+p1292
+sa(dp1293
+g2
+I1
+sg3
+I2
+sg4
+I1
+sg5
+I4
+sg6
+I1
+sg7
+I2013
+sg8
+VManchester City FC
+p1294
+sg10
+VCSKA Moscow
+p1295
+sa(dp1296
+g2
+I1
+sg3
+I0
+sg4
+I1
+sg5
+I4
+sg6
+I0
+sg7
+I2013
+sg8
+VReal Sociedad de Fútbol
+p1297
+sg10
+VManchester United FC
+p1298
+sa(dp1299
+g2
+I1
+sg3
+I0
+sg4
+I1
+sg5
+I4
+sg6
+I0
+sg7
+I2013
+sg8
+VShakhtar Donetsk
+p1300
+sg10
+VBayer Leverkusen
+p1301
+sa(dp1302
+g2
+I0
+sg3
+I0
+sg4
+I2
+sg5
+I4
+sg6
+I0
+sg7
+I2013
+sg8
+VFC Basel
+p1303
+sg10
+VSteaua Bucuresti
+p1304
+sa(dp1305
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I4
+sg6
+I1
+sg7
+I2013
+sg8
+VAjax Amsterdam
+p1306
+sg10
+VCeltic
+p1307
+sa(dp1308
+g2
+I1
+sg3
+I5
+sg4
+I4
+sg5
+I4
+sg6
+I1
+sg7
+I2013
+sg8
+VFC Barcelona
+p1309
+sg10
+VAC Milan
+p1310
+sa(dp1311
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I4
+sg6
+I1
+sg7
+I2013
+sg8
+VClub Atlético de Madrid
+p1312
+sg10
+VAustria Wien
+p1313
+sa(dp1314
+g2
+I0
+sg3
+I2
+sg4
+I2
+sg5
+I4
+sg6
+I0
+sg7
+I2013
+sg8
+VFC Zenit St. Petersburg
+p1315
+sg10
+VFC Porto
+p1316
+sa(dp1317
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I4
+sg6
+I1
+sg7
+I2013
+sg8
+VSSC Napoli
+p1318
+sg10
+VOlympique de Marseille
+p1319
+sa(dp1320
+g2
+I3
+sg3
+I3
+sg4
+I1
+sg5
+I4
+sg6
+I-1
+sg7
+I2013
+sg8
+VBorussia Dortmund
+p1321
+sg10
+VArsenal FC
+p1322
+sa(dp1323
+g2
+I0
+sg3
+I4
+sg4
+I2
+sg5
+I4
+sg6
+I1
+sg7
+I2013
+sg8
+VChelsea FC
+p1324
+sg10
+VFC Schalke 04
+p1325
+sa(dp1326
+g2
+I4
+sg3
+I1
+sg4
+I3
+sg5
+I5
+sg6
+I-1
+sg7
+I2013
+sg8
+VCeltic
+p1327
+sg10
+VAC Milan
+p1328
+sa(dp1329
+g2
+I0
+sg3
+I1
+sg4
+I1
+sg5
+I5
+sg6
+I0
+sg7
+I2013
+sg8
+VFC Porto
+p1330
+sg10
+VAustria Wien
+p1331
+sa(dp1332
+g2
+I3
+sg3
+I1
+sg4
+I0
+sg5
+I5
+sg6
+I1
+sg7
+I2013
+sg8
+VAjax Amsterdam
+p1333
+sg10
+VFC Barcelona
+p1334
+sa(dp1335
+g2
+I1
+sg3
+I0
+sg4
+I1
+sg5
+I5
+sg6
+I0
+sg7
+I2013
+sg8
+VFC Zenit St. Petersburg
+p1336
+sg10
+VClub Atlético de Madrid
+p1337
+sa(dp1338
+g2
+I0
+sg3
+I3
+sg4
+I1
+sg5
+I5
+sg6
+I1
+sg7
+I2013
+sg8
+VArsenal FC
+p1339
+sg10
+VOlympique de Marseille
+p1340
+sa(dp1341
+g2
+I1
+sg3
+I0
+sg4
+I1
+sg5
+I5
+sg6
+I0
+sg7
+I2013
+sg8
+VSteaua Bucuresti
+p1342
+sg10
+VFC Schalke 04
+p1343
+sa(dp1344
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I5
+sg6
+I1
+sg7
+I2013
+sg8
+VFC Basel
+p1345
+sg10
+VChelsea FC
+p1346
+sa(dp1347
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I5
+sg6
+I1
+sg7
+I2013
+sg8
+VBorussia Dortmund
+p1348
+sg10
+VSSC Napoli
+p1349
+sa(dp1350
+g2
+I4
+sg3
+I0
+sg4
+I0
+sg5
+I5
+sg6
+I-1
+sg7
+I2013
+sg8
+VCSKA Moscow
+p1351
+sg10
+VFC Bayern München
+p1352
+sa(dp1353
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I5
+sg6
+I1
+sg7
+I2013
+sg8
+VManchester City FC
+p1354
+sg10
+VViktoria Plze?
+p1355
+sa(dp1356
+g2
+I0
+sg3
+I1
+sg4
+I1
+sg5
+I5
+sg6
+I1
+sg7
+I2013
+sg8
+VJuventus Turin
+p1357
+sg10
+VFC Copenhagen
+p1358
+sa(dp1359
+g2
+I1
+sg3
+I3
+sg4
+I0
+sg5
+I5
+sg6
+I1
+sg7
+I2013
+sg8
+VReal Madrid CF
+p1360
+sg10
+VGalatasaray SK
+p1361
+sa(dp1362
+g2
+I3
+sg3
+I0
+sg4
+I2
+sg5
+I5
+sg6
+I-1
+sg7
+I2013
+sg8
+VBayer Leverkusen
+p1363
+sg10
+VManchester United FC
+p1364
+sa(dp1365
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I5
+sg6
+I1
+sg7
+I2013
+sg8
+VShakhtar Donetsk
+p1366
+sg10
+VReal Sociedad de Fútbol
+p1367
+sa(dp1368
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I5
+sg6
+I1
+sg7
+I2013
+sg8
+VParis Saint-Germain
+p1369
+sg10
+VOlympiacos F.C.
+p1370
+sa(dp1371
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I5
+sg6
+I-1
+sg7
+I2013
+sg8
+VRSC Anderlecht
+p1372
+sg10
+VBenfica Lissabon
+p1373
+sa(dp1374
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I6
+sg6
+I1
+sg7
+I2013
+sg8
+VBenfica Lissabon
+p1375
+sg10
+VParis Saint-Germain
+p1376
+sa(dp1377
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I6
+sg6
+I-1
+sg7
+I2013
+sg8
+VFC Copenhagen
+p1378
+sg10
+VReal Madrid CF
+p1379
+sa(dp1380
+g2
+I3
+sg3
+I3
+sg4
+I0
+sg5
+I6
+sg6
+I-1
+sg7
+I2013
+sg8
+VFC Bayern München
+p1381
+sg10
+VManchester City FC
+p1382
+sa(dp1383
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I6
+sg6
+I1
+sg7
+I2013
+sg8
+VViktoria Plze?
+p1384
+sg10
+VCSKA Moscow
+p1385
+sa(dp1386
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I6
+sg6
+I1
+sg7
+I2013
+sg8
+VOlympiacos F.C.
+p1387
+sg10
+VRSC Anderlecht
+p1388
+sa(dp1389
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I6
+sg6
+I-1
+sg7
+I2013
+sg8
+VReal Sociedad de Fútbol
+p1390
+sg10
+VBayer Leverkusen
+p1391
+sa(dp1392
+g2
+I0
+sg3
+I1
+sg4
+I1
+sg5
+I6
+sg6
+I1
+sg7
+I2013
+sg8
+VManchester United FC
+p1393
+sg10
+VShakhtar Donetsk
+p1394
+sa(dp1395
+g2
+I1
+sg3
+I2
+sg4
+I1
+sg5
+I6
+sg6
+I1
+sg7
+I2013
+sg8
+VGalatasaray SK
+p1396
+sg10
+VJuventus Turin
+p1397
+sa(dp1398
+g2
+I2
+sg3
+I2
+sg4
+I0
+sg5
+I6
+sg6
+I-1
+sg7
+I2013
+sg8
+VOlympique de Marseille
+p1399
+sg10
+VBorussia Dortmund
+p1400
+sa(dp1401
+g2
+I1
+sg3
+I6
+sg4
+I1
+sg5
+I6
+sg6
+I1
+sg7
+I2013
+sg8
+VFC Barcelona
+p1402
+sg10
+VCeltic
+p1403
+sa(dp1404
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I6
+sg6
+I1
+sg7
+I2013
+sg8
+VChelsea FC
+p1405
+sg10
+VSteaua Bucuresti
+p1406
+sa(dp1407
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I6
+sg6
+I1
+sg7
+I2013
+sg8
+VFC Schalke 04
+p1408
+sg10
+VFC Basel
+p1409
+sa(dp1410
+g2
+I1
+sg3
+I3
+sg4
+I4
+sg5
+I6
+sg6
+I0
+sg7
+I2013
+sg8
+VAC Milan
+p1411
+sg10
+VAjax Amsterdam
+p1412
+sa(dp1413
+g2
+I2
+sg3
+I2
+sg4
+I2
+sg5
+I6
+sg6
+I1
+sg7
+I2013
+sg8
+VClub Atlético de Madrid
+p1414
+sg10
+VFC Porto
+p1415
+sa(dp1416
+g2
+I0
+sg3
+I1
+sg4
+I1
+sg5
+I6
+sg6
+I1
+sg7
+I2013
+sg8
+VAustria Wien
+p1417
+sg10
+VFC Zenit St. Petersburg
+p1418
+sa(dp1419
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I6
+sg6
+I1
+sg7
+I2013
+sg8
+VSSC Napoli
+p1420
+sg10
+VArsenal FC
+p1421
+sa(dp1422
+g2
+I4
+sg3
+I0
+sg4
+I0
+sg5
+I7
+sg6
+I-1
+sg7
+I2013
+sg8
+VManchester City FC
+p1423
+sg10
+VFC Barcelona
+p1424
+sa(dp1425
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I7
+sg6
+I-1
+sg7
+I2013
+sg8
+VBayer Leverkusen
+p1426
+sg10
+VParis Saint-Germain
+p1427
+sa(dp1428
+g2
+I2
+sg3
+I0
+sg4
+I0
+sg5
+I7
+sg6
+I-1
+sg7
+I2013
+sg8
+VAC Milan
+p1429
+sg10
+VClub Atlético de Madrid
+p1430
+sa(dp1431
+g2
+I4
+sg3
+I3
+sg4
+I1
+sg5
+I7
+sg6
+I-1
+sg7
+I2013
+sg8
+VArsenal FC
+p1432
+sg10
+VFC Bayern München
+p1433
+sa(dp1434
+g2
+I5
+sg3
+I1
+sg4
+I0
+sg5
+I7
+sg6
+I1
+sg7
+I2013
+sg8
+VOlympiacos F.C.
+p1435
+sg10
+VManchester United FC
+p1436
+sa(dp1437
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I7
+sg6
+I-1
+sg7
+I2013
+sg8
+VFC Zenit St. Petersburg
+p1438
+sg10
+VBorussia Dortmund
+p1439
+sa(dp1440
+g2
+I3
+sg3
+I1
+sg4
+I0
+sg5
+I7
+sg6
+I-1
+sg7
+I2013
+sg8
+VFC Schalke 04
+p1441
+sg10
+VReal Madrid CF
+p1442
+sa(dp1443
+g2
+I1
+sg3
+I0
+sg4
+I1
+sg5
+I7
+sg6
+I0
+sg7
+I2013
+sg8
+VGalatasaray SK
+p1444
+sg10
+VChelsea FC
+p1445
+sa(dp1446
+g2
+I3
+sg3
+I4
+sg4
+I1
+sg5
+I7
+sg6
+I0
+sg7
+I2013
+sg8
+VFC Bayern München
+p1447
+sg10
+VArsenal FC
+p1448
+sa(dp1449
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I7
+sg6
+I1
+sg7
+I2013
+sg8
+VClub Atlético de Madrid
+p1450
+sg10
+VAC Milan
+p1451
+sa(dp1452
+g2
+I0
+sg3
+I2
+sg4
+I0
+sg5
+I7
+sg6
+I1
+sg7
+I2013
+sg8
+VParis Saint-Germain
+p1453
+sg10
+VBayer Leverkusen
+p1454
+sa(dp1455
+g2
+I0
+sg3
+I4
+sg4
+I0
+sg5
+I7
+sg6
+I1
+sg7
+I2013
+sg8
+VFC Barcelona
+p1456
+sg10
+VManchester City FC
+p1457
+sa(dp1458
+g2
+I1
+sg3
+I3
+sg4
+I0
+sg5
+I7
+sg6
+I1
+sg7
+I2013
+sg8
+VReal Madrid CF
+p1459
+sg10
+VFC Schalke 04
+p1460
+sa(dp1461
+g2
+I0
+sg3
+I1
+sg4
+I1
+sg5
+I7
+sg6
+I1
+sg7
+I2013
+sg8
+VChelsea FC
+p1462
+sg10
+VGalatasaray SK
+p1463
+sa(dp1464
+g2
+I1
+sg3
+I1
+sg4
+I0
+sg5
+I7
+sg6
+I-1
+sg7
+I2013
+sg8
+VBorussia Dortmund
+p1465
+sg10
+VFC Zenit St. Petersburg
+p1466
+sa(dp1467
+g2
+I1
+sg3
+I5
+sg4
+I0
+sg5
+I7
+sg6
+I1
+sg7
+I2013
+sg8
+VManchester United FC
+p1468
+sg10
+VOlympiacos F.C.
+p1469
+sa(dp1470
+g2
+I2
+sg3
+I1
+sg4
+I3
+sg5
+I8
+sg6
+I0
+sg7
+I2013
+sg8
+VManchester United FC
+p1471
+sg10
+VFC Bayern München
+p1472
+sa(dp1473
+g2
+I1
+sg3
+I6
+sg4
+I3
+sg5
+I8
+sg6
+I0
+sg7
+I2013
+sg8
+VFC Barcelona
+p1474
+sg10
+VClub Atlético de Madrid
+p1475
+sa(dp1476
+g2
+I3
+sg3
+I3
+sg4
+I2
+sg5
+I8
+sg6
+I1
+sg7
+I2013
+sg8
+VReal Madrid CF
+p1477
+sg10
+VBorussia Dortmund
+p1478
+sa(dp1479
+g2
+I2
+sg3
+I1
+sg4
+I3
+sg5
+I8
+sg6
+I1
+sg7
+I2013
+sg8
+VParis Saint-Germain
+p1480
+sg10
+VChelsea FC
+p1481
+sa(dp1482
+g2
+I3
+sg3
+I3
+sg4
+I2
+sg5
+I8
+sg6
+I1
+sg7
+I2013
+sg8
+VBorussia Dortmund
+p1483
+sg10
+VReal Madrid CF
+p1484
+sa(dp1485
+g2
+I1
+sg3
+I2
+sg4
+I3
+sg5
+I8
+sg6
+I1
+sg7
+I2013
+sg8
+VChelsea FC
+p1486
+sg10
+VParis Saint-Germain
+p1487
+sa(dp1488
+g2
+I6
+sg3
+I1
+sg4
+I3
+sg5
+I8
+sg6
+I1
+sg7
+I2013
+sg8
+VClub Atlético de Madrid
+p1489
+sg10
+VFC Barcelona
+p1490
+sa(dp1491
+g2
+I1
+sg3
+I2
+sg4
+I3
+sg5
+I8
+sg6
+I1
+sg7
+I2013
+sg8
+VFC Bayern München
+p1492
+sg10
+VManchester United FC
+p1493
+sa(dp1494
+g2
+I1
+sg3
+I1
+sg4
+I2
+sg5
+I9
+sg6
+I0
+sg7
+I2013
+sg8
+VClub Atlético de Madrid
+p1495
+sg10
+VChelsea FC
+p1496
+sa(dp1497
+g2
+I3
+sg3
+I6
+sg4
+I1
+sg5
+I9
+sg6
+I1
+sg7
+I2013
+sg8
+VReal Madrid CF
+p1498
+sg10
+VFC Bayern München
+p1499
+sa(dp1500
+g2
+I6
+sg3
+I3
+sg4
+I1
+sg5
+I9
+sg6
+I-1
+sg7
+I2013
+sg8
+VFC Bayern München
+p1501
+sg10
+VReal Madrid CF
+p1502
+sa(dp1503
+g2
+I1
+sg3
+I1
+sg4
+I2
+sg5
+I9
+sg6
+I-1
+sg7
+I2013
+sg8
+VChelsea FC
+p1504
+sg10
+VClub Atlético de Madrid
+p1505
+sa(dp1506
+g2
+I3
+sg3
+I3
+sg4
+I4
+sg5
+I10
+sg6
+I0
+sg7
+I2013
+sg8
+VReal Madrid CF
+p1507
+sg10
+VClub Atlético de Madrid
+p1508
+sa.
